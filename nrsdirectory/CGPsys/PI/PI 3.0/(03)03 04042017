@@ -1,0 +1,22 @@
+Git [Project			[Content]]
+	|			    |
+	^			    ^
+Connection classes		   Public key/or/and wallet
+   |- Other domains		      |- Content
+Projects -|			      |- Domain
+Coins	 -|
+Content  -|
+Realms   -|
+							   |
+-------------------------------|---------------------------|
+			       ^
+		      |<<|- Archive
+		      ^  |_________________________________|
+User Portfolio(s)   <<^  |locked + Private keys & content| |
+<|>	<|>    <|>       | or           total content = <^ |
+Anon or non or semi      |unlocked			   |
+--------|----------      |                                 |
+        ^                |---------------------------------|
+    Can be all 3
+    (multi-layer)
+    (single/multi)

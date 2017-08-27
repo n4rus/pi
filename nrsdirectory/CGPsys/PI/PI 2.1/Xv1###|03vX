@@ -1,0 +1,2423 @@
+<----- Ajuste o tamanho do editor/visualizador de texto, de forma a corresponder a extensão total desta linha. ----->
+
+1-Vestibular (1.conhecimentos gerais, 2.Física) - deadlines: outubro e novembro de 2016
+2-Projeto Informacional 1.0(getting used to: c, c++, java/script, python, api, sql) - 12/16
+3-Launch PI 2.0(website backbones): primeiro trimestre de 2017
+4-Launch PI 3.0(content: R&D, reference material, acquired skills, and projects portfolios)
+			^> Segundo trimestre de 2017
+
+1: 2 meses
+2: 1 mes
+3: 3 meses (aprx: variando de acordo com o resultado obtido nos PI's 0.XX e 1.0)
+4: 3 meses (aprx: variando de acordo com o resultado obtido nos PI's 0.XX, 1.0, e 2.0)
+
+Observações:
+	# O conhecimento em programas que auxiliem no gerencimento de informação, através de tabelas e links é fundamental. Durante os processos, a facilidade de acesso a informação ordenada, pode reduzir o tempo total do projeto. Sql, java, e python, se ligados ao hypertexto, podem desempenhar tais funções.
+
+
+
+Progresso:
+
+1 	Inicio (Outubro/2016)
+1.1 Vestibular Conhecimentos Gerais.	(deadline: 23/10/2016)			=ok
+1.2 Prova específica de Física.			(deadline: 26 e 27/11/2016)		=ok
+
+1.2.
+** Proximas semanas:1 Estudos para prova específica, junto ao desenvolvimento das ideias posteriores em relação as 						novas, e ao progresso geral obtido durante as semanas de síntese. 
+					*2*Importante: Forçar o adiantamento no aprendizado de programas, ou outras possíveis soluções
+					para o financeiro.*retorno financeiro ainda fora de alcance, sera retomado em: PI2.0***ok*
+					*2*1*Portanto: Física, sínteses(criação/edição), R&D Sistemas(for profit).*R&D: PI2.0***ok*
+
+2	Inicio (Dezembro/2016)
+2.1 Projeto Infomacional 1.0 			(deadline: 31/12/2016)			=ongoing
+
+	Objetivo Planejado: Acostumar-se a linguagens de programação: C, C++, Java/JavaScript, Python, api, sql
+	Conteudos visitados antes do inicio da etapa 2.1: Java/JavaScript, Python
+	Interesses adquiridos antes, durante, e após a criação do PI 1.0: Descentralização da web: (ecoins(bitcoin)),
+		 ethereum, hub de informações do individuo (semi anonimo: redes sociais, portfolios, conteudos, material
+		 de referencia).
+	
+
+2.1.1 Revisao, e estudo dos conteudos citados em 2.1, seguindo a deadline da etapa.
+		*01/12/2016: restart learning git, python, java, java/script*
+		*01/12/2016: started and restarted learning about ethereum, bitcoin e PI(hub(ou simple web domain))*
+		*09/12/2016: took a look at ruby at codeacademy, restarting tomorrow. *for now, shall be reading python*
+        *30/12/2016: **OC&d 2.1: PI 1.2.2 realocado para PI 2.0 (plano inicial, segundo OC&d 2 e 3)
+
+		*2.2*A iniciar:  Hub e sub-itens, inserindo neles, os conteudos a serem refinados durante o PI 2.0 e 3.0*
+		*PI2.0: OCd 1.2.2(e 1.2.2.2), OCd 2.1: PI 1.1*2.2*
+        **OC&d 2.1: PI 1.2.2 realocando para PI 2.0
+
+reviewed 16/12/2016 23:05-23:14
+^>last reviewed 30/12/2016 18:03-18:34
+
+[int]pc1[int]<crypt IO(2)**x(2)>[int]pc2[int]
+
+=
+
+2x1x2x2**2x2x1x2
+
+=
+
+256
+
+=
+
+**
+
+
+
+[adv]portal[nsys]
+
+nsys = x
+
+x = {
+
+v1
+v2
+v3
+...
+
+}
+
+advertize
+nsystemN4
+xhumanvsurvival
+xhumanvprogress
+xhumanvsupport
+...
+
+
+
+256
+
+**
+
+256
+
+**
+
+256
+
+...
+
+for **:
+    256 / (hash / timeperpeer(timeperpeer = total time / web)
+
+
+
+hive mind = public opinion
+egregor = inclination power
+power = beyond everyotherthing
+
+
+
+01/12/16	Descentralização da Web	Decentralizedweb.net	Ethereum White paper	
+02/12/16	Aprenticeship Patterns	Why programmers work at night	The New Currency at the end of the world	
+03/12/16	Why programmers work at night	Feynman: On  Importance of Playing	Holding A Program in One's Head	
+04/12/16	Why programmers work at night			
+05/12/16	external readings	Criada a guia “Lista”		
+06/12/16	Holding A Program in One's Head	Power of languages	Python Traning 9%	
+07/12/16	Professional Software Dev for Students	Ethereum dot org		
+08/12/16	external readings	Python Traning 14%	Solidity	
+09/12/16	external readings	Python Traning 19%	Ruby overlook	reorganização da mesa
+10/12/16	Python Traning 23%	Criada a guia e tabela “program”	Gmails Organizados	
+11/12/16	Python Traning 33%			
+12/11/16	Python Traning 42%			
+13/12/16	Python Traning 47%			
+14/12/16	Python Traning 57%			
+15/12/16	Python Scientific Lecture Notes	Python Scientific Lecture Notes	Phyton training 61%	
+16/12/16	Python Traning 66%	Index Grande Compilado – V1-1		
+17/12/16	Python: Pratice Makes Perfect 20%			
+18/12/16	Python: Pratice Makes Perfect 26%			
+19/12/16	Python: Pratice Makes Perfect 40%			
+20/12/16				
+21/12/16				
+22/12/16	Python: Pratice Makes Perfect 60%			
+23/12/16	Python: Pratice Makes Perfect 100%	Python Traning 71%		
+24/12/16				
+25/12/16				
+26/12/16	Python Traning 80%			
+27/12/16	Python Traning 85%			
+28/12/16	Python Traning 90%			
+29/12/16	Python Traning 100%
+
+
+
+01/12/16		Derivado de B1	
+02/12/16	Professional Development 1	Professional Development 7	
+03/12/16		Pet Projects	About Flow
+04/12/16			
+05/12/16			
+06/12/16	Professional Development 5	Holding A Program in One's Head	
+07/12/16			
+08/12/16			Ethereum dot org
+09/12/16			Learn Python at Codeacademy.com
+10/12/16			
+11/12/16			
+12/12/16			
+13/12/16			
+14/12/16	1.1.2	Picking an interpreter	
+15/12/16			
+16/12/16			
+17/12/16			
+18/12/16			
+19/12/16			
+20/12/16			
+21/12/16			
+22/12/16			
+23/12/16			
+
+
+
+
+Name	Estimated Time(h/m)		Start Date	Last visit	Progress	Left	Left Avg		
+Python	5	300	----	29/12/16	100.00%	0	0		
+Git	2	120	----	----	25.00%	90	6		
+JavaScript	10	600	----	----	31.00%	414	27.6		
+Learn JavaScript	5	300	----	----	0.00%	300	20		
+PHP	4	240	----	----	27.00%	175.2	11.68		
+Learn Java	4	240	----	----	100.00%	0	0		
+Deploy a Website	4	240	----	----	0.00%	240	16		
+SQL: Table Transformation	5	300	----	----	0.00%	300	20		
+SQL: Analyzing Bussines Metrics	2	120	----	----	0.00%	120	8		
+Learn Sass	3	180	----	----	0.00%	180	3		
+Ruby	9	540	----	----	0.00%	540	36		
+Learn Ruby on Rails	5	300	----	----	0.00%	300	20		
+Make a Website	4	240	----	----	100.00%	0	0		
+HTML & CSS	7	420	----	----	100.00%	0	0		
+Learn the Command Line	3	180	----	----	100.00%	0	0		
+						Minutes	Hours		
+Total Time	72	4320							
+Total Time Ongoing/Done	39	2340							
+Done	27.68	1660.8							
+Ongoing Left	11.32	679.2							
+Total Left	44.32	2659.2							
+	Hours	Minutes							
+									
+									
+							Ongoing		
+							left	done	
+							106.368	66.432	anime episodes
+							22.16	13.84	movies
+									
+							10636.8	6643.2	average real time
+							177.28	110.72	average real time
+							Hours	Minutes	
+			
+
+
+Lista de Leitura	Referencia	Inicio	Fim	05/12/16
+Think OS: A Brief Introduction to Operating Systems	Operating Systems			
+Computer Science From the Bottom up	Operating Systems			
+The Art of Unix Programming	Operating Systems			
+The little book about OS development	Operating Systems			
+Innovation Happens Elsewhere	Innovation Happens Elsewhere			
+A beginner's Python Tutorial	Python			
+Hitchhiker's Guide to Python! 	Python	on track		
+Python Scientific Lecture Notes	Python	on track	1.1.2	
+Learn Python in Y minutes	Python	on track		
+Learn SQL the Hard Way	SLQ			
+SQL for Web Nerds	SLQ			
+Linux Fundamentals	Bash			
+Linux Shell Scripting Tutorial	Bash			
+The bash academy	Bash			
+Programming in C	C			
+The C Book	C			
+Learn to Code With C	C			
+Deep C	C			
+An introduction to reverse engineering for beginners	Assembly			
+Programming from the Ground Up	Assembly			
+The Second Book of Machine Language	Assembly			
+A Guide to Ada for C and C++ Programmers	Ada			
+Ada Distiled	Ada			
+The Big Online Book of Linux Ada Programming	Ada			
+Discrete Structures for Computer Science: Counting, Recursion, and Probability	Mathematics For Computer Science			
+97 Things Every Programmer Should Know - Extended	Misc			
+Foundations of Programming	Misc			
+Getting Real	Misc			
+Information Technology and The Networked Economy	Misc			
+Philosophy of Computer Science	Misc			
+Learn to Program	Misc			
+Learning 30 Technologies in 30 days: A Developer Challenge	Misc			
+Liked Data Patterns	Misc			
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman 	Professional Development			
+Why Programmers Work at Night	Professional Development	02/12/16	04/12/16	3hours
+How to Do What You Love & Earn What You’re Worth as a Programmer	Professional Development			
+Professional Software Dev for Students	Professional Development	on track		
+What I've Learned From Failure	Professional Development	on track		
+	Algorithms & Data Structures			
+	Mathemathics			
+
+
+
+
+01/12/16	finished	finished	Must finish
+02/12/16		Introduction - version 0.4	finished
+03/12/16	A primer on Sleep Science		Nao iniciado
+04/12/16	Finished (at dealing with distractions)		
+05/12/16			
+06/12/16	Finished	Nao iniciado	
+07/12/16	Poor Naming	finished(check built in links)	
+08/12/16			Nao iniciado
+09/12/16			
+10/12/16			
+11/12/16			
+12/12/16			
+13/12/16			
+14/12/16			
+15/12/16	1.1.2		
+16/12/16			
+17/12/16			
+18/12/16			
+19/12/16			
+20/12/16			
+21/12/16			
+22/12/16			
+23/12/16			
+
+
+
+week plans:
+
+27-30/12
+
+1:Complete Python
+2:Complete C2-P5-V2 (OS, Backup Device, Conections)
+3:Trace ongoing manga readings, thus book readings (ods table)
+4:Trace Projects into C2-P5-V2 (General progress, OC&d, PI, Dezembro(sheet)).ods
+
+1:80%  | 28/12 = 90% | 29/12 = 100%
+2:30%  | 28/12 = 80% : OS, Backup Dev, Conections Hardware | 29/12 90% : Conections software/OS config | 30/12 : 100%
+3:100% | 27/12 = 0%  | 28/12 = 50% (done: manga list) | 29/12 = 100% : book list, odf table
+4:0%   | 30/12 = 
+
+27/12: 110/400% | 28/12: 270/400% | 29/12 = 290%/400 | 30/12 = 400%/400
+
+30-31/12
+1:bedroom final mode
+
+1:75% aprx
+
+
+
+27-30/12		Week Planings		
+Index	Date	Description	Progress	
+1	27/12/16	Python	85.00%	
+	28/12/16		90.00%	
+	29/12/16		100.00%	finished
+				
+2	27/12/16	Complete C2-P5-V2 (OS, Backup Device, Conections)	30.00%	
+	28/12/16	OS, Backup Dev, Conections Hardware	80.00%	
+	29/12/16	Conections software/OS config	90.00%	
+	30/12/16	Last tune ups	100.00%	
+				
+3	27/12/16	Trace ongoing manga readings, thus book readings (ods table)	0.00%	
+	28/12/16	manga list, book list, odf table	100.00%	finished
+				
+4	27/12/16	Trace Projects into C2-P5-V2 ((General progress, OC&d, PI, Dezembro(sheet).ods).ods)	0.00%	
+				
+			Total	
+			110/400	27/12/16
+			270/400	28/12/16
+			290/400	29/12/16
+				30/12/16
+30-31/12				
+1	27/12/16	Bedroom final mode	75.00%	
+
+
+
+
+information = [database[energy[type[distribution[user[transformation[subsys]]]]]]]
+              1        2      3    4            5    6              7      7654321
+energy = [generation[type[distribution[user[transformation[subsys]]]]]]
+         1          2    3            4    5              6      654321
+
+energy_generation_type = [1: solar, 2: wind, 3: fusion]
+energy_distribution = [1: decentralized, 2: wireless, 3: cable]
+energy_user = [1: user_necessity, 2: user_transformation, 3: user_subsys]
+user_necessity = [user_transformation energy input]
+user_transformation = [user_subsys: model]
+user_subsys = [model: redistributes energy as/and information to another users]
+
+information_database = [contain, and show a index of all user_subsys]
+information_energy = [contain and manage information about energy]
+information_type = [contain, manage, and index, types of information]
+information_distribution = [distributes all information]
+information_user = [contain, show, and index, public information about users]
+information_user_transformation = [contain, show, and index, public information about users info/energy_tranformation]
+information_user_subsys = [contain, show, and index, public information about user_subsys]
+
+
+
+CGPs = Computer General Project systems
+
+OC&d = Organizando Conteudos & datas
+
+PI = Projeto Informacional
+
+Ordem de Derivacao
+
+OC&d > PI > Math sheet > Last_Week > CGPs
+
+Janeiro de 2017
+
+1 Organizar uma nova tabela contendo OC&d, PI, e CGP, relacionando-as
+1.2 Organizar as informação de OC&d em uma nova tabela e dentro de CGPs
+1.2.1 Tabela contida em 1, descrevendo PI em relação a OC&d
+
+
+
+Document	Start	Progress	Last Update	Stage
+CGPs	30/12/16	----	30/12/16	0.1
+OC&d	01/09/16	----	30/12/16	2.1.1
+ PI	01/12/16	----	30/12/16	1.1
+Math sheet	02/12/16	----	30/12/16	1.1
+Last Week	27/12/16	----	30/12/16	4
+
+
+
+01/12/16	Descentralização da Web	Decentralizedweb.net	Ethereum White paper	
+02/12/16	Aprenticeship Patterns	Why programmers work at night	The New Currency at the end of the world	
+03/12/16	Why programmers work at night	Feynman: On  Importance of Playing	Holding A Program in One's Head	
+04/12/16	Why programmers work at night			
+05/12/16	external readings	Criada a guia “Lista”		
+06/12/16	Holding A Program in One's Head	Power of languages	Python Traning 9%	
+07/12/16	Professional Software Dev for Students	Ethereum dot org		
+08/12/16	external readings	Python Traning 14%	Solidity	
+09/12/16	external readings	Python Traning 19%	Ruby overlook	reorganização da mesa
+10/12/16	Python Traning 23%	Criada a guia e tabela “program”	Gmails Organizados	
+11/12/16	Python Traning 33%			
+12/11/16	Python Traning 42%			
+13/12/16	Python Traning 47%			
+14/12/16	Python Traning 57%			
+15/12/16	Python Scientific Lecture Notes	Python Scientific Lecture Notes	Phyton training 61%	
+16/12/16	Python Traning 66%	Index Grande Compilado – V1-1		
+17/12/16	Python: Pratice Makes Perfect 20%			
+18/12/16	Python: Pratice Makes Perfect 26%			
+19/12/16	Python: Pratice Makes Perfect 40%			
+20/12/16				
+21/12/16				
+22/12/16	Python: Pratice Makes Perfect 60%			
+23/12/16	Python: Pratice Makes Perfect 100%	Python Traning 71%		
+24/12/16				
+25/12/16				
+26/12/16	Python Traning 80%			
+27/12/16	Python Traning 85%	Last week Plan		
+28/12/16	Python Traning 90%			
+29/12/16	Python Traning 100%			
+30/12/16	CGPs.ods
+
+
+
+01/12/16		Derivado de B1	
+02/12/16	Professional Development 1	Professional Development 7	
+03/12/16		Pet Projects	About Flow
+04/12/16			
+05/12/16			
+06/12/16	Professional Development 5	Holding A Program in One's Head	
+07/12/16			
+08/12/16			Ethereum dot org
+09/12/16			Learn Python at Codeacademy.com
+10/12/16			
+11/12/16			
+12/12/16			
+13/12/16			
+14/12/16	1.1.2	Picking an interpreter	
+15/12/16			
+16/12/16			
+17/12/16			
+18/12/16			
+19/12/16			
+20/12/16			
+21/12/16			
+22/12/16			
+23/12/16			
+24/12/16			
+25/12/16			
+26/12/16			
+27/12/16		last_week.ods(sheet)	
+28/12/16			
+29/12/16			
+30/12/16	Computer General Project systems		
+
+
+
+27-30/12		Week Planings		
+Index	Date	Description	Progress	
+1	27/12/16	Python	85.00%	
+	28/12/16		90.00%	
+	29/12/16		100.00%	finished
+				
+2	27/12/16	Complete C2-P5-V2 (OS, Backup Device, Conections)	30.00%	
+	28/12/16	OS, Backup Dev, Conections Hardware	80.00%	
+	29/12/16	Conections software/OS config	90.00%	
+	30/12/16	Last tune ups	100.00%	
+				
+3	27/12/16	Trace ongoing manga readings, thus book readings (ods table)	0.00%	
+	28/12/16	manga list, book list, odf table	100.00%	finished
+				
+4	27/12/16	Trace Projects into C2-P5-V2 ((General progress, OC&d, PI, Dezembro(sheet).ods).ods)	0.00%	
+	30/12/12	CGPs	100.00%	finished
+			Total	
+			110/400	27/12/16
+			270/400	28/12/16
+			290/400	29/12/16
+			400/400	30/12/16
+30-31/12				
+1	27/12/16	Bedroom final mode	75.00%	
+
+
+
+Name	Estimated Time(h/m)		Start Date	Last visit	Progress	Left	Left Avg			
+Python	5	300	----	29/12/16	100.00%	0	0			
+Git	2	120	----	----	25.00%	90	6			
+JavaScript	10	600	----	----	31.00%	414	27.6			
+Learn JavaScript	5	300	----	----	0.00%	300	20			
+PHP	4	240	----	----	27.00%	175.2	11.68			
+Learn Java	4	240	----	----	100.00%	0	0			
+Deploy a Website	4	240	----	----	0.00%	240	16			
+SQL: Table Transformation	5	300	----	----	0.00%	300	20			
+SQL: Analyzing Bussines Metrics	2	120	----	----	0.00%	120	8			
+Learn Sass	3	180	----	----	0.00%	180	3			
+Ruby	9	540	----	----	0.00%	540	36			
+Learn Ruby on Rails	5	300	----	----	0.00%	300	20			
+Make a Website	4	240	----	----	100.00%	0	0			
+HTML & CSS	7	420	----	----	100.00%	0	0			
+Learn the Command Line	3	180	----	----	100.00%	0	0			
+						Minutes	Hours			
+Total Time	72	4320								
+Total Time Ongoing/Done	39	2340								
+Done	27.68	1660.8								
+Ongoing Left	11.32	679.2								
+Total Left	44.32	2659.2								
+	Hours	Minutes								
+										
+										
+							Ongoing			
+							left	done		
+							106.368	66.432	anime episodes	
+							22.16	13.84	movies	
+										
+							10636.8	6643.2	average real time(m)	normal x4
+							177.28	110.72	average real time(h)	normal x4
+
+
+
+Lista de Leitura	Referencia	Inicio	Fim	05/12/16
+Think OS: A Brief Introduction to Operating Systems	Operating Systems			
+Computer Science From the Bottom up	Operating Systems			
+The Art of Unix Programming	Operating Systems			
+The little book about OS development	Operating Systems			
+Innovation Happens Elsewhere	Innovation Happens Elsewhere			
+A beginner's Python Tutorial	Python			
+Hitchhiker's Guide to Python! 	Python	on track		
+Python Scientific Lecture Notes	Python	on track	1.1.2	
+Learn Python in Y minutes	Python	on track		
+Learn SQL the Hard Way	SLQ			
+SQL for Web Nerds	SLQ			
+Linux Fundamentals	Bash			
+Linux Shell Scripting Tutorial	Bash			
+The bash academy	Bash			
+Programming in C	C			
+The C Book	C			
+Learn to Code With C	C			
+Deep C	C			
+An introduction to reverse engineering for beginners	Assembly			
+Programming from the Ground Up	Assembly			
+The Second Book of Machine Language	Assembly			
+A Guide to Ada for C and C++ Programmers	Ada			
+Ada Distiled	Ada			
+The Big Online Book of Linux Ada Programming	Ada			
+Discrete Structures for Computer Science: Counting, Recursion, and Probability	Mathematics For Computer Science			
+97 Things Every Programmer Should Know - Extended	Misc			
+Foundations of Programming	Misc			
+Getting Real	Misc			
+Information Technology and The Networked Economy	Misc			
+Philosophy of Computer Science	Misc			
+Learn to Program	Misc			
+Learning 30 Technologies in 30 days: A Developer Challenge	Misc			
+Liked Data Patterns	Misc			
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman 	Professional Development			
+Why Programmers Work at Night	Professional Development	02/12/16	04/12/16	3hours
+How to Do What You Love & Earn What You’re Worth as a Programmer	Professional Development			
+Professional Software Dev for Students	Professional Development	on track		
+What I've Learned From Failure	Professional Development	on track		
+	Algorithms & Data Structures			
+	Mathemathics			
+
+			
+
+Titulo	Pagina	Date	Tema	Autor	Referencia	Citações
+Hamlet	7	----	Romance	Shakespeare	-----	Francis Bacon
+Uma Nova Historia no Tempo	Finished	09/01/17	Fisica	Stephen Hawking	-----	----
+Uma Introdução a Metafísica da Natureza	14	----	Filosofia	Michel Ghins	Universidade	----
+Viver em Londres	24	----	Guia	Myriam Daisy	Daysi	----
+What I've Learned From Failure	----	----	Programming	Reginald “Raganwald” Braithwaite	Professional Development	----
+Why Programmers Work at Night	Finished	04/12/16	Programming	Swizec/nightowls	Professional Development	----
+Professional Software Dev for Students	----	----	Programming	Mike G. Miller	Professional Development	----
+Hitchiker’s Guide to The Galaxy	Finished	11/01/17	Ficção	Douglas Adams	PoP	----
+
+
+
+01/12/16	finished	finished	Must finish
+02/12/16		Introduction - version 0.4	finished
+03/12/16	A primer on Sleep Science		Nao iniciado
+04/12/16	Finished (at dealing with distractions)		
+05/12/16			
+06/12/16	Finished	Nao iniciado	
+07/12/16	Poor Naming	finished(check built in links)	
+08/12/16			Nao iniciado
+09/12/16			
+10/12/16			
+11/12/16			
+12/12/16			
+13/12/16			
+14/12/16			
+15/12/16	1.1.2		
+16/12/16			
+17/12/16			
+18/12/16			
+19/12/16			
+20/12/16			
+21/12/16			
+22/12/16			
+23/12/16			
+24/12/16			
+25/12/16			
+26/12/16			
+27/12/16			
+28/12/16			
+29/12/16			
+30/12/16			
+
+
+Titulo	Lidos	Last read	
+Aiki	98	----	finished
+Berserk	347	----	
+Boku Dake Ga Inai Machi	12	----	
+Dragon Ball Super	19	28/12/16	
+Ibitsu: Okada no Kazuto	50	13/01/17	
+Hajime no Ippo	1164	28/12/16	
+Kyuukyoku Choujin no R	32	----	finished
+Nazo no Kanojo	17	----	
+Old Boy	15 ou 20	----	need check
+One Piece	852	14/01/17	
+
+
+
+02/12/16			Dezembro	
+Index	Stage	Date	Description	Progress
+1	1	15/12/16	Reorganizar o quarto para os proximos passos	70.00%
+	1.1	31/12/16	Retoques finais	0.00%
+				
+2	2	30/12/16	Configurar as maquinas	100.00%
+		27/12/16	Desktop	100.00%
+		23/12/16	Notebook	100.00%
+				
+3	3	23/12/16	Accounts Managment	100.00%
+	3.1		Semi-anon: Git, Stack Overflow, Ubuntu Reps, Arxive (realocado: PI 2.0)	0.00%
+	3.2	23/12/16	Renote in paper New pass	100.00%
+				
+4	4	12/16	Exercicios fisicos(dia/12/2016): 17, 19, 21, 22, 23, 26, 29, 30	
+
+
+
+
+	Task	Name	Reference	Description	Index	<<=>>			Index	Start	Updates			Index	Next Step
+															
+0.1	Learn	GIT	CodeAcademy	From 0 to 100%	0.1	Janeiro	0 a 1	0 a 2	0.1	23/01/17				0.1	
+	Learn	SQL	CodeAcademy	From 0 to 100%	0.2				0.2	----				0.2	
+	Learn	SASS	CodeAcademy	Overview (optional from 0 to 100%)	0.3				0.3	----				0.3	
+	Learn	Website Deploy	CodeAcademy	“Deploy a Website”	0.4				0.4	----				0.4	
+	Learn	Jquery	CodeAcademy	Overview (optional from 0 to 100%)	0.5				0.5	----				0.5	
+	Learn	Bootstrap	bootsrap	Overview	0.6				0.6	----				0.6	
+	Learn	Django	Internet	Overview	0.7				0.7	25/01/17				0.7	
+	Review	Learn	Produced Data, Programming	Programing: Python, HTML/CSS, Command Line	0.0.1				0.0.1	----				0.0.1	01/02/17
+	Rearrange	Data	PI, OC&D, e CGP	January/2017 content, next trimester deadlines	0.0.2				0.0.2	----				0.0.2	01/02/17
+fl0at	0wrote0	first stage	html/css	First stage 2201207 & First-stage-22012017.css	f1				f1	22/01/17				f1	
+															
+															
+1	Review	steps	text file	Steps 13012017	1	Fevereiro			1	13/01/17				1	
+	Review	start	text file	Startt 14012017	2				2	14/01/17				2	
+	Review	1	text file	01 13012017	3				3	13/01/17				3	
+	Review	2	text file	02(robot)12012017	4				4	12/01/17				4	
+	Review	eEwt	text file	formula eEwr 19012017	5				5	19/01/17				5	
+	Review	0.0123	text file/paper	0123, 01, 3	6				6	23/01/17				6	
+	Review	11 & 33	text file	11 & 33	7				7	25/01/17				7	
+	Review	w	paper	white sheets: 1, 2, 3 e 4 | Nt pages 1, 2	8				8	25/01/17	29/01/17			8	
+	Review	nothingness	text file	nothingness	9				9	29/01/17				9	
+	Review	w	paper	white sheet 5	10				10	30/01/17				10	
+	Review	w	paper	white sheet 6 & 7	11				11	31/01/17				11	
+	----	compilado1	text file	12e13do012017	0.1				0.1	12/01/17	13/01/17			0.1	
+	----	compilado2	text file	12a14do012017	0.2				0.2	14/01/17				0.2	
+	----	Compilado3	text file	12a19do012017	0.3				0.3	19/01/17				0.3	
+	reCompile	continuous	text file	Continuous 20012017 (compilado4)	0.4				0.4	20/01/17				0.4	
+fl0at															
+															
+															
+2	Edit	Data	text file	Copy, edit and rearange all data into the new format	1.1	Março			1.1					1.1	
+
+
+
+
+Sheet	Date	Index	Description	PI Progress	towards	
+----	16/01/17	----	Created PI2.0.1.ods 	2.0.1	2.1	Janeiro
+----	16/01/17	----	Sheets: PI2.0.1, Progress			
+PI2.0.1	19/01/17	5	formula eEwr			
+PI2.0.1	19/01/17	0	compilado3			
+PI2.0.1	20/01/17	0	compilado4			
+PI2.0.1	20/01/17	0.6	bootstrap			
+PI2.0.1	20/01/17	1.1	Task: Edit Data (1.1 follows content from index 1)		2.2	
+PI2.0.1	22/01/17	f1	First stage 2201207 & First-stage-22012017.css			
+PI2.0.1	22/01/17	----	Updated PI2.0.1(V1.1).ods: added index sheet and fl0at rows			
+PI2.0.1	23/01/17	6	0123, 01. 03			
+PI2.0.1	24/01/17	----	Program(CGPsys) Sheet Added			
+PI2.0.1	25/01/17	0.7	django overview			
+PI2.0.1	25/01/17	7	11 & 33			
+PI2.0.1	26/01/17	8	white sheet 1			
+PI2.0.1	26/01/17	8	nt pages 1 & 2			
+PI2.0.1	27/01/17	8	white sheet 2			
+PI2.0.1	28/01/17	8	white sheet 3			
+PI2.0.1	29/01/17	8	white sheet 4			
+PI2.0.1	29/01/17	9	nothingness			
+PI2.0.1	30/01/17	10	white sheet 5			
+PI2.0.1	31/01/17	11	white sheet 6 & 7			
+PI2.0.1		0.0.1				Fevereiro
+		0.0.2				
+
+
+
+
+	Task	Name	Reference	Description	Index								Index	Order		
+														Creation	Review	Finish
+0.1	Learn	GIT	CodeAcademy	From 0 to 100%	0.1		Janeiro		0 a 1		0 a 2		0.1	3		
+	Learn	SQL	CodeAcademy	From 0 to 100%	0.2								0.2	4		
+	Learn	SASS	CodeAcademy	Overview (optional from 0 to 100%)	0.3								0.3	5		
+	Learn	Website Deploy	CodeAcademy	“Deploy a Website”	0.4								0.4	6		
+	Learn	Jquery	CodeAcademy	Overview (optional from 0 to 100%)	0.5								0.5	8		
+	Learn	Bootstrap	bootsrap	Overview (optional from 0 to 100%)	0.6								0.6	9		
+	Review	Learn	Produced Data, Programming	Programing: Python, HTML/CSS, Command Line	0.0.1								0.0.1	1		
+	Rearrange	Data	PI, OC&D, e CGP	January/2017 content, next trimester deadlines	0.0.2								0.0.2	2		
+fl0at	0wrote0	first stage	html/css	First stage 2201207 & First-stage-22012017.css	f1								f1	7		
+																
+																
+1	Review	steps	text file	Steps 13012017	1		Fevereiro						1	4		
+	Review	start	text file	Startt 14012017	2								2	5		
+	Review	1	text file	01 13012017	3								3	3		
+	Review	2	text file	02(robot)12012017	4								4	1		
+	Review	eEwt	text file	formula eEwr 19012017	5								5	7		
+	----	compilado1	text file	12e13do012017	0.1								0.1	10		
+	----	compilado2	text file	12a14do012017	0.2								0.2	2		
+	----	Compilado3	text file	12a19do012017	0.3								0.3	6		
+	Compile	Compilado4	text file	Continuous 20012017 (compilado4)	0.4								0.4	8		
+fl0at														9		
+																
+																
+2	Edit	Data	text file	Copy, edit and rearange all data into the new format	1.1		Março						1.1	1		
+
+
+
+
+Name	Estimated Time(h/m)		Start Date	Last visit	Progress	Left	Left Avg			
+Python	5	300	----	29/12/16	100.00%	0	0			
+Git	2	120	----	23/03/17	25.00%	90	6			
+JavaScript	10	600	----	----	31.00%	414	27.6			
+Learn JavaScript	5	300	----	----	0.00%	300	20			
+PHP	4	240	----	----	27.00%	175.2	11.68			
+Learn Java	4	240	----	----	100.00%	0	0			
+Deploy a Website	4	240	----	----	0.00%	240	16			
+SQL: Table Transformation	5	300	----	----	0.00%	300	20			
+SQL: Analyzing Bussines Metrics	2	120	----	----	0.00%	120	8			
+Learn Sass	3	180	----	----	0.00%	180	3			
+Ruby	9	540	----	----	0.00%	540	36			
+Learn Ruby on Rails	5	300	----	----	0.00%	300	20			
+Make a Website	4	240	----	----	100.00%	0	0			
+HTML & CSS	7	420	----	----	100.00%	0	0			
+Learn the Command Line	3	180	----	----	100.00%	0	0			
+						Minutes	Hours			
+Total Time	72	4320								
+Total Time Ongoing/Done	39	2340								
+Done	27.68	1660.8								
+Ongoing Left	11.32	679.2								
+Total Left	44.32	2659.2								
+	Hours	Minutes								
+										
+										
+							Ongoing			
+							left	done		
+							106.368	66.432	anime episodes	
+							22.16	13.84	movies	
+										
+							10636.8	6643.2	average real time(m)	normal x4
+							177.28	110.72	average real time(h)	normal x4
+
+
+
+sudo ssh n4rus@C2-P5-V2
+xtightvncviewer -storepasswd
+x11vnc -rfbauth /home/narus/.vnc/passwd
+
+#install vncserver
+alias installvncserver="sudo apt-get -y install x11vnc"
+#start the vnc
+alias sshvnc="x11vnc -rfbauth /home/narus/.vnc/passwd"
+#install vnc viewer
+alias installvncviewer="sudo apt-get -y install xtightvncviewer"
+#config vnc viewer
+alias configvncviewer="xtightvncviewer -storepasswd"
+#start vnc viewer
+alias sshvnc="x11vnc -rfbauth /home/narus/.vnc/passwd"
+
+echo "Starting proxychains & tor"
+
+sudo proxychains service tor start 
+
+
+
+dic = {texts}
+
+class Word(s, w):
+    def Word(s, w):
+
+class Proposition(s, w, p):
+    def Proposition(s, w, p):
+
+def words_in_text(dic.Word):
+    def proposition(words_in_text):
+        if proposition == true:
+        Print proposition
+        else:
+        print proposition + " This statement is a lie, as any other." 
+
+
+
+acondicionado,
+pela dopamina do clique,
+do conforto tecno-social;
+
+isolado,
+de todo o pensamento alheio,
+e de si,
+O homem, pensa tudo,
+para além da terceira linha
+
+se voce quiser, eu vou te falar,
+o que viemos fazer, 
+o que queremos buscar,
+e nem pra me dizer que o ritmo é chato,
+que é um pé no saco,
+tentar filosofar,
+
+melhor refomular, essa formula incerta,
+tentar o recalculo, do triangulo na aresta,
+fazendo pouco, da festa,
+detesta, 
+E volta revoltado,
+volta de novo, do lado errado,
+
+falow
+
+
+
+Cada vez que os neko se espeta,
+um poeta cai da bicicleta.
+O que achou desta rima?
+- Uma merda.
+
+
+
+A cicada,
+emerge from their shell,
+looking above thus beyond,
+everything else.
+
+
+
+item = var
+
+ad([resources]<>[market]<>[money{virtual resource)])
+
+entity = item(s) of ad
+
+resource = physical world: energy in general: objects, work, transactions, transport, data,energy
+
+money = coins, ecoins, exchange(entity to needing)
+
+ad = lead the content to the consumer that needs it, resulting in at least one exchange(data to read)
+
+
+user{ad([resources]<>[market]<>[money{virtual resource)])}
+
+user = interpret data while use/move: data, money and resources
+
+
+system(data({user{system{ad([resources]<>[market]<>[money{virtual resource)])}}}))
+
+system = holds all the related data, allowing and helping user's to produce resources
+        (manage and create data: transform resources in general(as well money, ad, entity, user, and system))
+
+data = all items on system(each one, and total)
+
+
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+
+"---------------------------------------------------------------"
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+################################################################
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+'''''''''''''''''''II    IIII 1FTTTI $$$$$$$''''''''''''''''''''
+'''''''''''''''''''II    II'  __  I  $$$$$$$'   ''''''''''''''''
+                 ''II    II   IJ  I  $$$$$$$''''''''''''''''''''
+'''''''''''''''''''IILII IIII IIIII  $IIIII$''''''''''''''''''''
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+################################################################
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+0000000000000000000000000000000000000000000000000000000000000000
+1111111111111111111111111111111111111111111111111111111111111111
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))                      
+
+
+program(personalagent(robot(program)) +
+
+distribution(energy + robot(program)) + 
+
+energy((system) + 
+
+distribution((distribution(robot)) + system + 
+
+Classvar(var((distribution)
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))
+)     
+
+)
+
+)
+
+)
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+
+data base relacionadas e nao relacionadas
+django(python) { webpage backbone } {node} {anyhost} {node} {node} {anyhost}
+
+I'm a Writer.
+Pay what you want for me to live,
+thus, I shall produce a bit or another
+
+25/01/17 
+
+needed task | task doer
+
+| = comunication throught necessity, mutual
+
+ ** even if mutual, a messenger can know the message or not, nonethless, the meaning itself.
+    mesmo sendo mutua, um mensageiro pode saber a mensagem ou não, nem por menos, o significado por si.
+
+
+
+startup(project)>bitcoin< >ethereum
+  <^>-------------------<^>state-money
+
+startup = "hosted inside actual system presets, ex.: crowdfunding
+
+project = deliver money/resources from a user to another(user0<>user00<>user01 ... etc)
+
+bitcoin = holds user's coins
+
+ethereum = optimize, keep, and organize bureoucracy from contracts and trasactions between user's
+
+state-money = bridge local state-coins from user's to project, and from project to user's
+
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+0 = OS: to produce the project from within(scan, text, edit, format)
+00 = email: virtual identity and messagebox
+01 = bitcoin wallet: to manage resources
+02 = github/archive/ethereum: manage and publish material from OS
+03 = website: gather github and archive material, plus generate a new content, making an original reference domain,
+                while linking thus directing related profits to the bitcoin/ether wallets.
+     01: All Project content published at website, github, archive, and ether. Social media and other portals should
+        be included and linked to the project features at this point, leading it to the descentralization.
+        (Youtube, Twitter, Blogs, Adsense, Facebook, Vimeo, Instagram, Numerai, Decentralized systems, etc) 
+
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+item = var
+
+ad([resources]<>[market]<>[money{virtual resource)])
+
+entity = item(s) of ad
+
+resource = physical world: energy in general: objects, work, transactions, transport, data,energy
+
+money = coins, ecoins, exchange(entity to needing)
+
+ad = lead the content to the consumer that needs it, resulting in at least one exchange(data to read)
+
+
+user{ad([resources]<>[market]<>[money{virtual resource)])}
+
+user = interpret data while use/move: data, money and resources
+
+
+system(data({user{system{ad([resources]<>[market]<>[money{virtual resource)])}}}))
+
+system = holds all the related data, allowing and helping user's to produce resources
+        (manage and create data: transform resources in general(as well money, ad, entity, user, and system))
+
+data = all items on system(each one, and total)
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+
+"---------------------------------------------------------------"   
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""   """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""    
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""    ################################################################    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+'''''''''''''''''''II    IIII 1FTTTI $$$$$$$''''''''''''''''''''
+'''''''''''''''''''II    II'  __  I  $$$$$$$'   ''''''''''''''''
+                 ''II    II   IJ  I  $$$$$$$''''''''''''''''''''
+'''''''''''''''''''IILII IIII IIIII  $IIIII$''''''''''''''''''''
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+################################################################
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+0000000000000000000000000000000000000000000000000000000000000000
+1111111111111111111111111111111111111111111111111111111111111111
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))                      
+
+
+program(personalagent(robot(program)) +
+
+distribution(energy + robot(program)) + 
+
+energy((system) + 
+
+distribution((distribution(robot)) + system + 
+
+Classvar(var((distribution)
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))
+)     
+
+)
+
+)
+
+)
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+|trabalho                                                       | estudo                                 |
+|custo energético de manutenção do corpo(energia*tempo)         | custo energético de manutenção do corpo|
+|funçao do trabalho(execuçao*tempo)                             | função de trabalho(eC+necessidade)     |
+|remuneração pela função de trabalho                            | remuneração pelo função de trabalho    |
+
+t = time
+d = distance, dimension, peers
+e = energia aplicada
+w = trabalho
+n = necessidade
+F = função
+Fw = função de trabalho
+eC = Custo energetico de manutenção do sistema
+rFw = Remuneração pela função de trabalho
+tw = tempo(t) de trabalho
+tE = tempo(t) de estudo
+
+Trabalho(w) é equivalente ao alcance(d) do trabalho(w):
+
+    w = e * d
+
+calcula-se a função(F) de trabalho(w), multiplicando trabalho(w) por tempo(t):
+    
+    Fw = w * t
+
+Se o usuario(usr) utiliza energia(e) para viver, e passa a utilizar mais para atividades emergentes como estudar e/ou trabalhar, passa a existir o custo de energia(e), a necessidade(n) de energia(e) para o (usr), equivale ao numero de usr's, multiplicado pelo tempo estudo(E) somado ao tempo(t) de trabalho(w):
+
+    usr = (tE + tw)
+    n = usr * e
+    ou
+    n = (((tE + tw) * e) - eC)
+
+Para o custo energético de manutenção do sistema(eC), multiplica-se o custo energia(e) do ser(eS) por tempo(t):
+
+    eC = e * t
+
+entao para remuneração(r) pela função(F) de trabalho(w), soma-se Fw ao custo energético de manutenção do corpo(eC):
+
+    rFw = Fw + eC
+
+Na função de estudo(E), a função(F) de trabalho(w) é igual a soma entre sistema(eC) e n:
+
+    FE = n + eC
+
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+startup(project)>bitcoin< >ethereum
+  <^>-------------------<^>state-money
+
+startup = "hosted inside actual system presets, ex.: crowdfunding
+
+project = deliver money/resources from a user to another(user0<>user00<>user01 ... etc)
+
+bitcoin = holds user's coins
+
+ethereum = optimize, keep, and organize bureoucracy from contracts and trasactions between user's
+
+state-money = bridge local state-coins from user's to project, and from project to user's
+
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+0 = OS: to produce the project from within(scan, text, edit, format)
+00 = email: virtual identity and messagebox
+01 = bitcoin wallet: to manage resources
+02 = github/archive/ethereum: manage and publish material from OS
+03 = website: gather github and archive material, plus generate a new content, making an original reference domain,
+                while linking thus directing related profits to the bitcoin/ether wallets.
+     01: All Project content published at website, github, archive, and ether. Social media and other portals should
+        be included and linked to the project features at this point, leading it to the descentralization.
+        (Youtube, Twitter, Blogs, Adsense, Facebook, Vimeo, Instagram, Numerai, Decentralized systems, etc) 
+
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+item = var
+
+ad([resources]<>[market]<>[money{virtual resource)])
+
+entity = item(s) of ad
+
+resource = physical world: energy in general: objects, work, transactions, transport, data,energy
+
+money = coins, ecoins, exchange(entity to needing)
+
+ad = lead the content to the consumer that needs it, resulting in at least one exchange(data to read)
+
+
+user{ad([resources]<>[market]<>[money{virtual resource)])}
+
+user = interpret data while use/move: data, money and resources
+
+
+system(data({user{system{ad([resources]<>[market]<>[money{virtual resource)])}}}))
+
+system = holds all the related data, allowing and helping user's to produce resources
+        (manage and create data: transform resources in general(as well money, ad, entity, user, and system))
+
+data = all items on system(each one, and total)
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+
+"---------------------------------------------------------------"   
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""   """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""    
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""    ################################################################    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+'''''''''''''''''''II    IIII 1FTTTI $$$$$$$''''''''''''''''''''
+'''''''''''''''''''II    II'  __  I  $$$$$$$'   ''''''''''''''''
+                 ''II    II   IJ  I  $$$$$$$''''''''''''''''''''
+'''''''''''''''''''IILII IIII IIIII  $IIIII$''''''''''''''''''''
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+################################################################
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+0000000000000000000000000000000000000000000000000000000000000000
+1111111111111111111111111111111111111111111111111111111111111111
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))                      
+
+
+program(personalagent(robot(program)) +
+
+distribution(energy + robot(program)) + 
+
+energy((system) + 
+
+distribution((distribution(robot)) + system + 
+
+Classvar(var((distribution)
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))
+)     
+
+)
+
+)
+
+)
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+
+0 = OS: to produce the project from within(scan, text, edit, format)
+00 = email: virtual identity and messagebox
+01 = bitcoin wallet: to manage resources
+02 = github/archive/ethereum: manage and publish material from OS
+03 = website: gather github and archive material, plus generate a new content, making an original reference domain,
+                while linking thus directing related profits to the bitcoin/ether wallets.
+     01: All Project content published at website, github, archive, and ether. Social media and other portals should
+        be included and linked to the project features at this point, leading it to the descentralization.
+        (Youtube, Twitter, Blogs, Adsense, Facebook, Vimeo, Instagram, Numerai, Decentralized systems, etc) 
+
+item = var
+
+ad([resources]<>[market]<>[money{virtual resource)])
+
+
+
+
+superior incompleto
+
+Experiencia profissional:
+ Administração e manutençao de Sistemas Operacionais: Linux, Windows XP/Vista/7/8/10 
+ Exel e LibreOffice Calc (planejamento, acompanhamento de tarefas e log em geral, formulas basicas, data management) 
+ Cadastro de produtos em website
+
+Conhecimentos:
+ hardware : montagem e manutenção de desktops, notebooks, redes, e eletro-portateis.
+ software nivel basico(html, css, python, java, & linux bash scripts)
+
+Formação academica:
+ 2014 UFPR Filosofia - 6 meses - incompleta
+ 2017 UFPR Fisica - cursando
+
+hobbies:
+
+ Aprender, de mente e corpo. De leituras e pesquisas em projetos autoguiados, a uma simples corrida morro acima.
+
+Metas:
+1. Aumentar meu entendimento acerca de software e hardware, junto a suas atuais e possiveis
+propriedades fisicas, aplicações praticas e implicações filosoficas.
+
+2. Não escrever o que não posso fazer, nem aquilo que não faz sentido de ser.
+
+25/01/17
+
+Metas em relação ao Trabalho formal:
+
+Usar os métodos de aprendizado baseado na solução de problemas para superar e facilitar as tarefas exijidas.
+As formas de automatizar e reduzir o tempo de tarefas deve seguir como plano de fundo, junto as pesquisas.
+Os recursos gerados que vao em direção ao individuo, devem ser convertidos em: manutenção de vida, investimento
+                                                                           sistemas de auto-aprimoramento, e
+                                                                           re-construção/analise/supressão/execução
+                                                                           de vontades.
+
+27/01/27
+
+
+
+0123
+- Sistema Humano = Energia(in/out)
+  Manutenção de vida |Comida|{|Sol|Agua|Ar|} + Variaveis desejadas(ex.:conhecimento) = Ambiente
+                     |Higiene|
+                     |doenças|
+                     |acidentes|
+                     |Vontade: criação, consumação|
+  = {Conhecimento +- = energia necessária}
+
+    1: A otimização do ambiente e das vontades pode ser vantajoso, por ter o potencial de diminuir o risco de doenças
+        e acidentes, levando a 2
+    
+    2: Loop entre energia e conhecimento: o ambiente controlado de melhor forma(1) leva ao conhecimento elevado ao
+        simplesmente reduzir riscos. Ao otimizar esta e outras formas de enpender energia, a fatia de energia do
+        conhecimento aumenta, e se aprimora, num loop continuo, que pode ou não, ter fim.
+
+-------------- page 2 (0123 backpage) ----------------
+3
+
+    GIT [Project[content]]
+            |        |
+            ^        ^
+         classes = Public key/or/and wallet
+              ^       ^
+    projects -|       |- Content
+    Coins    -|       |- Domain
+    Content  -|
+    Realms   -|
+
+    {
+            Archive
+       ^
+       |- User Portfolio
+       |- Anon <or> Non <or> semi-anon 
+       |- Can be one, two or more Profiles per user
+       |- Multi-layer
+    }
+    + [] + { [ (Private Keys & Content) = (total content) ] locked, unlock, or both separetly} 
+
+-------------- page 3 (0123 second sheet) ----------------
+01
+
+Panela + Base de Indução(cooktop) = ([out]|[Battery][ | = [P]) + in
+    in = (wind/solar/energy) + gadget ext [(cpu) + smp drndrd(sounds, light)]
+    ^> Food/other-supplies
+
+
+"""
+
+    É só falar entonado, da ritmo,
+    que até o tosco,
+    fica bonito,
+    Lindoso, qualquer adjetivo é bonito,
+    além belo,
+    Bagulheramastagem dos infernos!
+
+"""
+
+"""
+
+Energy tunneling into entropy, from macro,
+to quantum flotations
+
+The energy travels from source to surroudings, 
+weakening gravity as time goes by, leading universe to
+a homogeneous quantum flotation.
+
+"""
+
+
+
+make a website at CA	A1=decentralized principles		
+make the website according to P(P=P(project+A1)			
+deploy the website into the web	web: contains various P’s from another persons	person = peer at the web	peer = entityname.function(distributed.potential + consumed.potential)
+			Ifpeerseed: peer = ifpeerseed((distributed.potential – consumedpotential) + 0 + peer = peer)
+			
+			
+		peer = 	12
+		Ifpeerseed = 	0
+		distributed.potential = 	10
+		consumed.potential = 	2
+		entityname.function = 	12
+
+
+
+chega o eletricista,
+curioso, ele vai agindo estranho,
+subindo pela parede, como uma lagartixa,
+ele verifica toda a rede, nao sabe agir como um inseto.
+
+banana, doce, pao, e cafe.nada.corp, is a org - as it is nothing more than an way to regorganize energy flow. We develop beyond
+
+from cofee to intergalactic, dimensional, and paradoxal distances
+
+from a time being, there was a text that said: every world I wrote, collide with my own tought, the transcendent power
+I keep unfold, to generate the vortex to the next one
+   ...
+    :
+    .
+   ...
+    :
+    .
+    :
+   :.:
+    :
+    .
+    :
+   ...
+    .
+    :
+   ...
+   : :
+    .
+    :
+   ...
+   : :
+    .
+    :
+   ...
+   : :
+    .
+    :
+   ...
+   : :
+
+the program was proposely lost, because it was too much of primal
+    even: when a service is needed, it could be payd if is possible, or, as the repair ghaters or cumulate resources.
+
+    the system is stored in the chain, so there is no bureocraty institution to be paid for the transaction.
+    the energy and infrastructe already pay their state taxes, so the system is free, based on the human info
+    freedom
+
+    users can create and store programs in the web.
+    
+    ex.1: study plan: time and the cost to acomplish, including user living cost;
+    ex.2: work plan: time; cost to acomplish, including user living cost; goal; tasks; improvements; input's/output's
+
+
+
+
+entity = item(s) of ad
+
+resource = physical world: energy in general: objects, work, transactions, transport, data,energy
+
+money = coins, ecoins, exchange(entity to needing)
+
+ad = lead the content to the consumer that needs it, resulting in at least one exchange(data to read)
+
+
+user{ad([resources]<>[market]<>[money{virtual resource)])}
+
+user = interpret data while use/move: data, money and resources
+
+
+system(data({user{system{ad([resources]<>[market]<>[money{virtual resource)])}}}))
+
+system = holds all the related data, allowing and helping user's to produce resources
+        (manage and create data: transform resources in general(as well money, ad, entity, user, and system))
+
+data = all items on system(each one, and total)
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+
+"---------------------------------------------------------------"
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+################################################################
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+'''''''''''''''''''II    IIII 1FTTTI $$$$$$$''''''''''''''''''''
+'''''''''''''''''''II    II'  __  I  $$$$$$$'   ''''''''''''''''
+                 ''II    II   IJ  I  $$$$$$$''''''''''''''''''''
+'''''''''''''''''''IILII IIII IIIII  $IIIII$''''''''''''''''''''
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+################################################################
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+0000000000000000000000000000000000000000000000000000000000000000
+1111111111111111111111111111111111111111111111111111111111111111
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))                      
+
+
+program(personalagent(robot(program)) +
+
+distribution(energy + robot(program)) + 
+
+energy((system) + 
+
+distribution((distribution(robot)) + system + 
+
+Classvar(var((distribution)
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))
+)     
+
+)
+
+)
+
+)
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+
+---------------------------------------------------------------
+if the strings are program strings
+and a program string is a variable(as a string):
+ string = string_program(var)
+    for each var:
+        string_program(var) + string_program(raw_input.var)
+
+
+
+make a website at CA	A1=decentralized principles		
+make the website according to P(P=P(project+A1)			
+deploy the website into the web	web: contains various P’s from another persons	person = peer at the web	peer = entity.namefunction(generated.potential - (distributed.potential – consumed.potential))
+			Ifpeerseed: distributed.potential = (generated.potential – consumed.potential)
+			Ifpeerseed > 1: peer + (ifpperseed / peer)
+			For.ifpeerseed > 1: (gain.after.function+(peer) = peer)
+			
+			
+			
+		peer = 	50
+		Ifpeerseed = 	1
+			
+		distributed.potential = 	0
+		consumed.potential = 	50
+			
+		generation.potential = 	50
+		entity.namefunction = 	100
+		Ifpeerseed > 1 : 	50.02
+		gain.afterfunction : 	0.02
+		for.ifpeerseed > 1 : 	50.02
+
+
+
+make a website at CA	A1=decentralized principles		
+make the website according to P(P=P(project+A1)			
+deploy the website into the web	web: contains various P’s from another persons	person = peer at the web	peer = entity.namefunction(generated.potential - (distributed.potential – consumed.potential))
+			Ifpeerseed: distributed.potential = (generated.potential – consumed.potential)
+			Ifpeerseed > 1: peer + (ifpperseed / peer)
+			For.ifpeerseed > 1: (gain.after.function+(peer) = peer)
+			
+			
+			
+		peer = 	Err:522
+			
+			
+		distributed.potential = 	Err:522
+		consumed.potential = 	50
+			
+		generation.potential = 	Err:522
+		entity.namefunction = 	Err:522
+		Ifpeerseed > 1 : 	Err:522
+		gain.afterfunction : 	Err:522
+		for.ifpeerseed > 1 : 	Err:522
+
+
+
+Fri 20 Jan 2017 03:27:29 BRST 
+
+chega o eletricista,
+curioso, ele vai agindo estranho,
+subindo pela parede, como uma lagartixa,
+ele verifica toda a rede, nao sabe agir como um inseto.
+
+banana, doce, pao, e cafe.nada.corp, is a org - as it is nothing more than an way to regorganize energy flow. We develop beyond
+
+from cofee to intergalactic, dimensional, and paradoxal distances
+
+from a time being, there was a text that said: every world I wrote, collide with my own tought, the transcendent power
+I keep unfold, to generate the vortex to the next one
+   ...
+    :
+    .
+   ...
+    :
+    .
+    :
+   :.:
+    :
+    .
+    :
+   ...
+    .
+    :
+   ...
+   : :
+    .
+    :
+   ...
+   : :
+    .
+    :
+   ...
+   : :
+    .
+    :
+   ...
+   : :
+
+the program was proposely lost, because it was too much of primal
+    even: when a service is needed, it could be payd if is possible, or, as the repair ghaters or cumulate resources.
+
+    the system is stored in the chain, so there is no bureocraty institution to be paid for the transaction.
+    the energy and infrastructe already pay their state taxes, so the system is free, based on the human info
+    freedom
+
+    users can create and store programs in the web.
+    
+    ex.1: study plan: time and the cost to acomplish, including user living cost;
+    ex.2: work plan: time; cost to acomplish, including user living cost; goal; tasks; improvements; input's/output's
+
+if the strings are program strings
+and a program string is a variable(as a string):
+ string = string_program(var)
+    for each var:
+        string_program(var) + string_program(raw_input.var)
+
+----------------------------------------------------------------------------------------------------------------------
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+|trabalho                                                       | estudo                                 |
+|custo energético de manutenção do corpo(energia*tempo)         | custo energético de manutenção do corpo|
+|funçao do trabalho(execuçao*tempo)                             | função de trabalho(eC+necessidade)     |
+|remuneração pela função de trabalho                            | remuneração pelo função de trabalho    |
+
+t = time
+d = distance, dimension, peers
+e = energia aplicada
+w = trabalho
+n = necessidade
+F = função
+Fw = função de trabalho
+eC = Custo energetico de manutenção do sistema
+rFw = Remuneração pela função de trabalho
+tw = tempo(t) de trabalho
+tE = tempo(t) de estudo
+
+Trabalho(w) é equivalente ao alcance(d) do trabalho(w):
+
+    w = e * d
+
+calcula-se a função(F) de trabalho(w), multiplicando trabalho(w) por tempo(t):
+    
+    Fw = w * t
+
+Se o usuario(usr) utiliza energia(e) para viver, e passa a utilizar mais para atividades emergentes como estudar e/ou trabalhar, passa a existir o custo de energia(e), a necessidade(n) de energia(e) para o (usr), equivale ao numero de usr's, multiplicado pelo tempo estudo(E) somado ao tempo(t) de trabalho(w):
+
+    usr = (tE + tw)
+    n = usr * e
+    ou
+    n = (((tE + tw) * e) - eC)
+
+Para o custo energético de manutenção do sistema(eC), multiplica-se o custo energia(e) do ser(eS) por tempo(t):
+
+    eC = e * t
+
+entao para remuneração(r) pela função(F) de trabalho(w), soma-se Fw ao custo energético de manutenção do corpo(eC):
+
+    rFw = Fw + eC
+
+Na função de estudo(E), a função(F) de trabalho(w) é igual a soma entre sistema(eC) e n:
+
+    FE = n + eC
+
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+startup(project)>bitcoin< >ethereum
+  <^>-------------------<^>state-money
+
+startup = "hosted inside actual system presets, ex.: crowdfunding
+
+project = deliver money/resources from a user to another(user0<>user00<>user01 ... etc)
+
+bitcoin = holds user's coins
+
+ethereum = optimize, keep, and organize bureoucracy from contracts and trasactions between user's
+
+state-money = bridge local state-coins from user's to project, and from project to user's
+
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+0 = OS: to produce the project from within(scan, text, edit, format)
+00 = email: virtual identity and messagebox
+01 = bitcoin wallet: to manage resources
+02 = github/archive/ethereum: manage and publish material from OS
+03 = website: gather github and archive material, plus generate a new content, making an original reference domain,
+                while linking thus directing related profits to the bitcoin/ether wallets.
+     01: All Project content published at website, github, archive, and ether. Social media and other portals should
+        be included and linked to the project features at this point, leading it to the descentralization.
+        (Youtube, Twitter, Blogs, Adsense, Facebook, Vimeo, Instagram, Numerai, Decentralized systems, etc) 
+
+######################################################################################################################
+#<#>######### Better viewed in half, or full screen mode. This 3 lines must fit exactly into the window ##########<#>
+######################################################################################################################
+
+item = var
+
+ad([resources]<>[market]<>[money{virtual resource)])
+
+entity = item(s) of ad
+
+resource = physical world: energy in general: objects, work, transactions, transport, data,energy
+
+money = coins, ecoins, exchange(entity to needing)
+
+ad = lead the content to the consumer that needs it, resulting in at least one exchange(data to read)
+
+
+user{ad([resources]<>[market]<>[money{virtual resource)])}
+
+user = interpret data while use/move: data, money and resources
+
+
+system(data({user{system{ad([resources]<>[market]<>[money{virtual resource)])}}}))
+
+system = holds all the related data, allowing and helping user's to produce resources
+        (manage and create data: transform resources in general(as well money, ad, entity, user, and system))
+
+data = all items on system(each one, and total)
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+
+"---------------------------------------------------------------"   
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""    
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+################################################################    
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+'''''''''''''''''''II    IIII 1FTTTI $$$$$$$''''''''''''''''''''
+'''''''''''''''''''II    II'  __  I  $$$$$$$'   ''''''''''''''''
+                 ''II    II   IJ  I  $$$$$$$''''''''''''''''''''
+'''''''''''''''''''IILII IIII IIIII  $IIIII$''''''''''''''''''''
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+################################################################
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+################################################################
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+0000000000000000000000000000000000000000000000000000000000000000
+1111111111111111111111111111111111111111111111111111111111111111
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+classvar(var)
+
+energy(program)
+
+energy = (program(energyinput - energyoutput(program)))
+
+program = (function(function(class(var))))
+
+function = (program(function(energy("""Function to be executed"""))))
+
+personalagent = ai(robot(humanoid(ai)))
+
+ai = function
+
+robot = mechanicbody(ai)
+        mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """
+        body = central and total mechanic extension
+
+        for robot: robot(energy) + system(energy)
+            system = distribution(energy) + system(energy)
+                distribution = program(energy)
+
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))                      
+
+
+program(personalagent(robot(program)) +
+
+distribution(energy + robot(program)) + 
+
+energy((system) + 
+
+distribution((distribution(robot)) + system + 
+
+Classvar(var((distribution)
+classvar(var(energy(program(energy(program)(energy(program(energy = (program(energyinput - energyoutput(program(program = (function(function(class(var(function = (program(function(energy("""Function to be executed"""(personalagent = ai(robot(humanoid(ai(ai = function(robot = mechanicbody(ai(mechanic = """ physical body: built in ai function(s) pre-requisites and requisitions """(body = central and total mechanic extension(for robot: robot(energy) + system(energy))(system = distribution(energy) + system(energy))(distribution = program(energy)))))))))))))))))))))))))))))))
+)     
+
+)
+
+)
+
+)
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+
+
+
+aumented experience = lower necessity of glutamine
+
+we're against our enemy, and our saviors,
+while unknow forces move ourselves,
+and everything else
+
+
+
+|trabalho                                                       | estudo                                 |
+|custo energético de manutenção do corpo(energia*tempo)         | custo energético de manutenção do corpo|
+|funçao do trabalho(execuçao*tempo)                             | função de trabalho(eC+necessidade)     |
+|remuneração pela função de trabalho                            | remuneração pelo função de trabalho    |
+
+t = time
+d = distance, dimension, peers
+e = energia aplicada
+w = trabalho
+n = necessidade
+F = função
+Fw = função de trabalho
+eC = Custo energetico de manutenção do sistema
+rFw = Remuneração pela função de trabalho
+tw = tempo(t) de trabalho
+tE = tempo(t) de estudo
+
+Trabalho(w) é equivalente ao alcance(d) do trabalho(w):
+
+    w = e * d
+
+calcula-se a função(F) de trabalho(w), multiplicando trabalho(w) por tempo(t):
+    
+    Fw = w * t
+
+Se o usuario(usr) utiliza energia(e) para viver, e passa a utilizar mais para atividades emergentes como estudar e/ou trabalhar, passa a existir o custo de energia(e), a necessidade(n) de energia(e) para o (usr), equivale ao numero de usr's, multiplicado pelo tempo estudo(E) somado ao tempo(t) de trabalho(w):
+
+    usr = (tE + tw)
+    n = usr * e
+    ou
+    n = (((tE + tw) * e) - eC)
+
+Para o custo energético de manutenção do sistema(eC), multiplica-se o custo energia(e) do ser(eS) por tempo(t):
+
+    eC = e * t
+
+entao para remuneração(r) pela função(F) de trabalho(w), soma-se Fw ao custo energético de manutenção do corpo(eC):
+
+    rFw = Fw + eC
+
+Na função de estudo(E), a função(F) de trabalho(w) é igual a soma entre sistema(eC) e n:
+
+    FE = n + eC
+
+
+
+queimar um de testa,
+na madrugada,
+flutuando tudo,
+vê se nao vai chaspiaaaaaaar...
+
+eu sou a lanterna,
+dos chaspiados,
+eu to me espiando,
+se pa que eu vou vazar...
+------------------------------------------------
+a lua se esconde atrás da nuvem,
+a fumaça do baseado vai virar nuvem,
+e antes passa por deibaixo da lua e da nuvem,
+em relação ao piso, onde fixo,
+olha o sapientissimo simio, que encara curioso,
+os quase e desconhecidos infinitos;
+------------------------------------------------
+
+
+
+https://www.sciencedaily.com/releases/2017/01/170126132544.htm
+
+"Excessive stimulation of 5-HT2A receptors seems to underlay the experience of loosening of self/ego boundaries, disrupted self-referential processing and thus the related impairment of making meaning and attributing personal relevance to percepts and experiences seen in various psychiatric disorders," she says. "Therefore, it is important to consider this receptor subtype as potential target for the treatment of psychiatric illnesses characterized by alterations in personal relevance attribution."
+
+
+/* """
+They think that the personal relevance is better the way egocentric society acts. The lost of
+self is feared by those who use it to enslave others.
+If the personal relevance is changed, one can think and compare it against other objects of relevance.
+
+""" */
+
+Se nada faz sentido, tem-se muito a explorar, estudar, e entender. 
+Talvez o sentido é ilusão, a ilusão é sentido.
+Do superior ao eu, mutante imutavel eu,
+A ilusão deve ser o melhor,
+iluminando o que interage,
+o ser e o passo,
+homem macaco,
+Ego e asco,
+Cerebros,
+quanta,
+corda,
+uno,
+-1,
+0,
+
+
+
+startup(project)>bitcoin< >ethereum
+  <^>-------------------<^>state-money
+
+startup = "hosted inside actual system presets, ex.: crowdfunding
+
+project = deliver money/resources from a user to another(user0<>user00<>user01 ... etc)
+
+bitcoin = holds user's coins
+
+ethereum = optimize, keep, and organize bureoucracy from contracts and trasactions between user's
+
+state-money = bridge local state-coins from user's to project, and from project to user's
+
+######################################################################################################################
+############### Better viewed in half, or full screen mode. This line must fit exactly into the window ###############
+######################################################################################################################
+
+0 = OS: to produce the project from within(scan, text, edit, format)
+00 = email: virtual identity and messagebox
+01 = bitcoin wallet: to manage resources
+02 = github/archive/ethereum: manage and publish material from OS
+03 = website: gather github and archive material, plus generate a new content, making an original reference domain,
+                while linking thus directing related profits to the bitcoin/ether wallets.
+     01: All Project content published at website, github, archive, and ether. Social media and other portals should
+        be included and linked to the project features at this point, leading it to the descentralization.
+        (Youtube, Twitter, Blogs, Adsense, Facebook, Vimeo, Instagram, Numerai, Decentralized systems, etc) 
+
+
+
+0 = OS: to produce the project from within(scan, text, edit, format)
+00 = email: virtual identity and messagebox
+01 = bitcoin wallet: to manage resources
+02 = github/archive/ethereum: manage and publish material from OS
+03 = website: gather github and archive material, plus generate a new content, making an original reference domain,
+                while linking thus directing related profits to the bitcoin/ether wallets.
+     01: All Project content published at website, github, archive, and ether. Social media and other portals should
+        be included and linked to the project features at this point, leading it to the descentralization.
+        (Youtube, Twitter, Blogs, Adsense, Facebook, Vimeo, Instagram, Numerai, Decentralized systems, etc) 
+
+
+
+	Task	Name	Reference	Description	Index						
+											
+0.1	Learn	GIT	CodeAcademy	From 0 to 100%	0.1		Janeiro		0 a 1		0 a 2
+	Learn	SQL	CodeAcademy	From 0 to 100%	0.2						
+	Learn	SASS	CodeAcademy	Overview (optional from 0 to 100%)	0.3						
+	Learn	Website Deploy	CodeAcademy	“Deploy a Website”	0.4						
+	Learn	Jquery	CodeAcademy	Overview (optional from 0 to 100%)	0.5						
+	Learn	Bootstrap	bootsrap	Overview (optional from 0 to 100%)	0.6						
+	Review	Work	Produced Data, Programming	Programing: Python, HTML/CSS, Command Line	0;0.1						
+	Rearrange	Data	PI, OC&D, e CGP	January/2017 content, next trimester deadlines	0;0.2						
+fl0at	0wrote0	first stage	html	First stage 2201207	0;0.3						
+	0wrote0	first stage	css	First-stage-22012017.css	0;0.4						
+											
+1	Review	steps	text file	Steps 13012017	1		Fevereiro				
+	Review	start	text file	Startt 14012017	2						
+	Review	1	text file	01 13012017	3						
+	Review	2	text file	02(robot)12012017	4						
+	Review	eEwt	text file	formula eEwr 19012017	5						
+	----	compilado1	text file	12e13do012017	0.1						
+	----	compilado2	text file	12a14do012017	0.2						
+	----	Compilado3	text file	12a19do012017	0.3						
+	Compile	Compilado4	text file	continuous	0.4						
+fl0at											
+											
+											
+2	Edit	Data	text file	Copy, edit and rearange all data into the new format	1.1		Março				
+
+
+
+Sheet	Date	Index	Description	PI Progress	towards
+----	16/01/17	----	Created PI2.0.1.ods 	2.0.1	2.1
+----	16/01/17	----	Sheets: PI2.0.1, Progress		
+PI2.0.1	19/01/17	5	formula eEwr		
+PI2.0.1	19/01/17	0	compilado3		
+PI2.0.1	20/01/17	0	compilado4		
+PI2.0.1	20/01/17	0.6	bootstrap		
+PI2.0.1	20/01/17	1.1	Task: Edit Data (1.1 follows content from index 1)		2.2
+
+
+
+body {
+    background-color: navy;
+    background-image: url("/home/c42/Desktop/Link to CGPsys/PI2.1/PI 2.0.1/first stage/NightVisionCamera_1424314926215.jpg");
+}
+
+#centered {
+    text-align: center;
+}
+
+h4 {
+    color: grey;
+}
+
+h3 {
+    color: white;
+}
+
+h2 {
+    color: green;
+}
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <p><h4 id="centered"> I'm the first stage! </h4></p>
+    <link type="text/css" rel="stylesheet" href="first-stage-22012017.css"/>
+</head>
+
+<body>
+    <head>
+        <p><h3 id="centered">Second to the first</h3></p>
+        <p><h2 id="centered">The Third has arrived</h2></p>
+    </head>
+
+<!--
+ Sun 22 Jan 2017 02:21:12  01
+-->
+<body>
+</html>
+
+
+
+Basic Git Workflow
+
+git | init      |    creates a new Git repository
+git | status    |    inspects the contents of the working directory and staging area
+git | add       |    adds files from the working directory to the staging area
+git | diff      |    shows the difference between the working directory and the staging area
+git | commit    |    permanently stores file changes from the staging area in the repository
+git | log       |    shows a list of all previous commits
+
+
+
+Version	Task	Name	Reference	Description	Index	<<=>>			Index	Start	Updates			Index	Next Step
+															
+0.1	Learn	GIT	CodeAcademy	From 0 to 100%	0.1	Janeiro	0 a 1	0 a 2	0.1	23/01/17				0.1	
+	Learn	SQL	CodeAcademy	From 0 to 100%	0.2				0.2	----				0.2	
+	Learn	SASS	CodeAcademy	Overview (optional from 0 to 100%)	0.3				0.3	----				0.3	
+	Learn	Website Deploy	CodeAcademy	“Deploy a Website”	0.4				0.4	----				0.4	
+	Learn	Jquery	CodeAcademy	Overview (optional from 0 to 100%)	0.5				0.5	----				0.5	
+	Learn	Bootstrap	bootsrap	Overview	0.6				0.6	----				0.6	
+	Learn	Django	Internet	Overview	0.7				0.7	25/01/17				0.7	
+	Review	Learn	Produced Data, Programming	Programing: Python, HTML/CSS, Command Line	0.0.1				0.0.1	----				0.0.1	01/02/17
+	Rearrange	Data	PI, OC&D, e CGP	January/2017 content, next trimester deadlines	0.0.2				0.0.2	----				0.0.2	01/02/17
+fl0at	0wrote0	first stage	html/css	First stage 2201207 & First-stage-22012017.css	f1				f1	22/01/17				f1	
+															
+															
+1	Review	steps	text file	Steps 13012017	1	Fevereiro			1	13/01/17				1	
+	Review	start	text file	Startt 14012017	2				2	14/01/17				2	
+	Review	1	text file	01 13012017	3				3	13/01/17				3	
+	Review	2	text file	02(robot)12012017	4				4	12/01/17				4	
+	Review	eEwt	text file	formula eEwr 19012017	5				5	19/01/17				5	
+	Review	0.0123	text file/paper	0123, 01, 3	6				6	23/01/17				6	
+	Review	11 & 33	text file	11 & 33	7				7	25/01/17				7	
+	Review	w	paper	white sheets: 1, 2, 3 e 4 | Nt pages 1, 2	8				8	25/01/17	29/01/17			8	
+	Review	nothingness	text file	nothingness	9				9	29/01/17				9	
+	Review	w	paper	white sheet 5	10				10	30/01/17				10	
+	Review	w	paper	white sheet 6 & 7	11				11	31/01/17				11	
+	----	compilado1	text file	12e13do012017	0.1				0.1	12/01/17	13/01/17			0.1	
+	----	compilado2	text file	12a14do012017	0.2				0.2	14/01/17				0.2	
+	----	Compilado3	text file	12a19do012017	0.3				0.3	19/01/17				0.3	
+	reCompile	continuous	text file	Continuous 20012017 (compilado4)	0.4				0.4	20/01/17				0.4	
+fl0at															
+															
+															
+2	Edit	Data	text file	Copy, edit and rearange all data into the new format	1.1	Março			1.1					1.1	
+
+
+
+
+Version	Date	Index	Description	Progress	towards		File	Date	Sheet Index	
+----	16/01/17	----	Created PI2.0.1.ods 	2.0.1	2.1	Janeiro	PI2.0.1	16/01/17	PI.2.0.1	1
+----	16/01/17	----	Sheets: PI2.0.1, Progress					16/01/17	Progress	2
+PI2.0.1	19/01/17	5	formula eEwr							
+PI2.0.1	19/01/17	0	compilado3							
+PI2.0.1	20/01/17	0	compilado4							
+PI2.0.1	20/01/17	0.6	bootstrap							
+PI2.0.1	20/01/17	1.1	Task: Edit Data (1.1 follows content from index 1)		2.2			20/01/17		
+PI2.0.1	22/01/17	f1	First stage 2201207 & First-stage-22012017.css				PI2.0.1(V1.1)	22/01/17		
+PI2.0.1	22/01/17	----	Updated PI2.0.1(V1.1).ods: added index sheet and fl0at rows					22/01/17	Index	3(1)
+PI2.0.1	23/01/17	6	0123, 01. 03							
+PI2.0.1	24/01/17	----	Program(CGPsys) Sheet Added					24/01/17	Program	4
+PI2.0.1	25/01/17	0.7	django overview							
+PI2.0.1	25/01/17	7	11 & 33							
+PI2.0.1	26/01/17	8	white sheet 1							
+PI2.0.1	26/01/17	8	nt pages 1 & 2							
+PI2.0.1	27/01/17	8	white sheet 2							
+PI2.0.1	28/01/17	8	white sheet 3							
+PI2.0.1	29/01/17	8	white sheet 4							
+PI2.0.1	29/01/17	9	nothingness							
+PI2.0.1	30/01/17	10	white sheet 5							
+PI2.0.1	31/01/17	11	white sheet 6 & 7					31/01/17		
+PI2.1	01/02/17	----	Updated to PI2.1.ods: + version 2.1 sheet, - index, - PI2.0.1	2.1		Fevereiro	PI2.1	01/02/17	version	4(3(1))
+PI2.1	01/02/17	----	Wt sheet (worktime)							
+PI2.1	01/02/17	----	PI2.1 directory							
+PI2.1	01/02/17	f1	moved to PI2.1/PI2.0.1/first stage							
+PI2.1	01/02/17	0.1	reviewd, created git text/file							
+PI2.1	02/02/17	----	created “files” sheet							
+		0.0.1								
+		0.0.2								
+
+
+
+
+Version/Task	start	date	description	pause	work time	day total
+Firstwrk.odt	17:57:00	01/02/17	Firstwrk.odt, python shutil	18:26:00	00:29:00	
+PI2.1	18:26:00	01/02/17	PI 2.1 wt sheet, Firstwrk.odt, python shutil	18:39:00	00:13:00	
+PI2.1	23:17:00	01/02/17	wt sheet, Index(f1), PI2.1 folder creation,	00:00:00	00:43:00	01:25:00
+PI2.1	00:00:00	02/02/17	git textfile/review(0.1), wt, files sheet	00:33:00	00:33:00	
+PI2.1	23:17:00	02/02/17	review index f1	23:58:00	00:41:00	01:14:00
+						
+						
+						
+				Total = 	02:39:00	
+
+
+
+Name	Estimated Time(h/m)		Start Date	Last visit	Progress	Left	Left Avg			
+Python	5	300	----	29/12/16	100.00%	0	0			
+Git	2	120	----	02/02/17	25.00%	90	6			
+JavaScript	10	600	----	----	31.00%	414	27.6			
+Learn JavaScript	5	300	----	----	0.00%	300	20			
+PHP	4	240	----	----	27.00%	175.2	11.68			
+Learn Java	4	240	----	----	100.00%	0	0			
+Deploy a Website	4	240	----	----	0.00%	240	16			
+SQL: Table Transformation	5	300	----	----	0.00%	300	20			
+SQL: Analyzing Bussines Metrics	2	120	----	----	0.00%	120	8			
+Learn Sass	3	180	----	----	0.00%	180	3			
+Ruby	9	540	----	----	0.00%	540	36			
+Learn Ruby on Rails	5	300	----	----	0.00%	300	20			
+Make a Website	4	240	----	----	100.00%	0	0			
+HTML & CSS	7	420	----	----	100.00%	0	0			
+Learn the Command Line	3	180	----	----	100.00%	0	0			
+						Minutes	Hours			
+Total Time	72	4320								
+Total Time Ongoing/Done	39	2340								
+Done	27.68	1660.8								
+Ongoing Left	11.32	679.2								
+Total Left	44.32	2659.2								
+	Hours	Minutes								
+										
+										
+							Ongoing			
+							left	done		
+							106.368	66.432	anime episodes	
+							22.16	13.84	movies	
+										
+							10636.8	6643.2	average real time(m)	normal x4
+							177.28	110.72	average real time(h)	normal x4
+
+
+
+
+o mais importante,
+é o mais importante, 
+no momento da constatação de importancia
+
+compile
+
+kali packs
+tails live
+ewallet
+ethereum
+git
+spyder
+python
+django
+html/css
+sql
+sqlserver
+webserver
+
+optional
+
+php
+java
+jquery
+bootstrap
+
+
+
+

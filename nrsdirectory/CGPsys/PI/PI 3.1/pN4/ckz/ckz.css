@@ -1,0 +1,80 @@
+﻿body {
+	background-color: navy;
+	background-image: url("./NightVisionCamera_1424314926215.jpg");
+}
+
+p {
+	color: grey;
+}
+
+#centered {
+	text-align: center;
+}
+
+#thc {
+	text-align: center;
+	color: #FEFAC1;
+	font-family: Century;
+	font-size: 3em;
+}
+
+h4 {
+	color: grey;
+}
+
+h3 {
+	color: white;
+}
+
+h2 {
+	color: green;
+}
+
+h1 {
+	color: grey;
+}
+
+#textdiv {
+	background-color: none;
+	width: 50%;
+	float: center;
+	/*justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;*/
+	inline-block;
+}
+
+#texttable {
+	border-radius: 3px;
+	background-color: 122013;/*default="white"*/
+	width: 73%;
+	margin-top: 32px;
+	padding: none;/*default=1px*/
+}
+
+#tb0001 {
+	color: grey;
+	text-align: none;
+	background-color: #122013
+}
+
+#c0001 {
+	color: grey;
+	text-align: center;
+	text-decoration: none;
+	background-color: #122013
+}
+
+#l0001 {
+	color: grey;
+	text-align: left;
+}
+
+#t0001 {
+	color: grey;
+	text-align: none;
+}
+#tr1 {
+	float:center
+}

@@ -1,0 +1,8 @@
+<open source (portfolio)>
+	portfolio (website) {
+		(last projects) {
+			project (link (opensource(portfolio)))
+		...	project2 (link (opensource(portfolio2))) ....
+		}
+	}
+</>

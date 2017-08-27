@@ -1,0 +1,71 @@
+*Tomorrow Comes Today & N4 
+
+
+0: Preparation of web host &/or publishing platforms:						|
+  |Programing/coding studies, followed-up from OC&d to Pi2.3					|
+  |{github, archieve, openbook(ebook), printed version(cc)}					|
+  |		      ^>contrib option: ecoin¹     ^>*$coin²
+  |{website¹; youtube¹; ...}									|
+  |        ²	     ²
+  ^> Download: Ethereum, ewallet, mail_new(mail +/or mail-server), web-server_packages		|
+
+---------------------------------------------------------------------------------------------------------
+	
+
+	|{github, archieve, openbook(ebook), printed version(cc)}					|
+	|		      ^>contrib option: ecoin¹     ^>*$coin²
+  	|{website¹; youtube¹; ...}									|
+
+	alias_new:
+
+1	email		: x
+2	ewallet		: x
+3	web.domain	: x
+4	ethereum	: x
+5 	leanpub 	: x
+6	lulu		: x
+7	archive		: x
+8	github		: x
+9	stack		: x
+10	blog		: x
+11	twitter		: x
+12	youtube		: x
+13	facebook	: x
+14	instagram	: x
+15	pinterest	: x
+16	numerai		: x
+17	xen		: x
+18	paypal		: x
+19	pagseguro	: x
+20	adsense		: x
+21	amazon		: x
+22	pastebin	: x
+23	imgurl		: x
+24	g+		: x
+
+24/04/2017:
+
+1	email		: 1.1	
+2	ewallet		: 1.2	
+18	paypal		: 1.3	(1)
+19	pagseguro	: 1.4	(1)			
+20 	adsense		: 1.5	(1; 2; 18; 19)		
+3	web.domain	: 2.6	(1; 2; 18; 19; 20)	<:+:> [11, 15, 12, 24, 14, 13] | <:*:> {4, 16, 17}
+10	blog		: 2.7	(1; 2; 18; 19; 20; 3)	<:+:> [11, 15, 12, 24, 14, 13] | <:*:> {4, 16, 17}
+7	archive		: 3.8	(1; 2; 18; 19; 20; 3)	
+8	github		: 3.9	(1; 2; 18; 19; 20; 3)	
+9	stack		: 3.10	(1; 2; 18; 19; 20; 3)	
+5 	leanpub 	: 4.11	(1; 2; 18; 19)		
+6	lulu		: 4.12	(1; 2; 18; 19; 5)	
+21	amazon		: 4.13	(1; 2; 18; 19; 5)	
+11	twitter		: 5.14	(1)
+22	pastebin	: 5.15	(1)
+23	imgurl		: 5.16	(1)
+15	pinterest	: 5.17	(1)
+12	youtube		: 5.18	(1)
+24	g+		: 5.19	(1)
+14	instagram	: 5.20	(1)
+13	facebook	: 5.21	(1)
+4	ethereum	: 6.22	(1)
+16	numerai		: 6.23	(1)
+17	xen		: 6.24	(1)

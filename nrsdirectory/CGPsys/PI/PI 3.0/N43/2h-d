@@ -1,0 +1,32 @@
+## 2 horas por dia, sendo: 1:30 {[função relaciona a (atividade a ser exercida)][função2 relaciona a (troca
+## de informação entre tarefas)]}
+## 			    +
+## 			   0:30 {[função3 relaciona o (encontro de tarefas e infomações entre tarefas e funções) (de
+## acordo((x)(x))) com o (numero(n)) de usuarios e suas devidas (informações de funções e tarefas]}
+
+	2h/d: 1:30 {[function1(task)][function2(info.exchange)]}
+	       +
+	      0:30 {[function3(meeting.task+info)(x)n(x)user(info.task)]}
+or 
+
+	2h/d: 1:30 {[function1(task)][function2(info.exchange)]}
+	       +
+	      0:30 {[function3(meeting.task+info)*n*user(info.task)]}
+
+or
+
+	2h/d: 1:30 {[function1(task)][function2(info.exchange)]}
+	       +
+	      0:30 {[function3(meeting.task+info)*(n*[function(n)])*n*(n*[function(n)])user(info.task)]}
+
+or
+	
+	2h/d: 1:30 {[function1(task)][function2(info.exchange)]}
+	       +
+	      0:30 {[function3(meeting.task+info)*(n*[function(n)])*n*(n*[function(n)])user(info.task)]}
+
+	+-=
+
+	2h/d: 1:30 {[function1(task)][function2(info.exchange)]}
+	       +
+	      0:30 {[function3(meeting.task+info)*n*user(info.task)]}

@@ -1,0 +1,36 @@
+CGPs = Computer General Project systems
+
+OC&d = Organizando Conteudos & datas
+
+PI = Projeto Informacional
+
+Ordem de Derivacao
+
+OC&d > PI > Math sheet > Last_Week > CGPs
+
+Janeiro de 2017
+
+1 Organizar uma nova tabela contendo OC&d, PI, e CGP, relacionando-as
+1.2 Organizar as informação de OC&d em uma nova tabela e dentro de CGPs
+1.2.1 Tabela contida em 1, descrevendo PI em relação a OC&d
+
+    t1[{(OC&d ^ PI ^ CGP)CGPs}PI<relação>OC&d]
+
+---------------------------------------------------------------------------
+
+07/02/17 15:06:20 
+
+PI2.1.ods : OC&d, PI, CGPs | sheets
+
+OC&d {
+
+ PI2.1[OC&d(sheet), CGPs(sheet)]
+
+}
+
+Em OC&d foram traçados os planos a serem seguidos dentro de quatro etapas, de setembro de 2016, a junho de 2017.
+Durante a segunda etapa(Projeto Informacional 1.0), o progresso passou a ser tabelado, aprimorando o controle
+sobre tarefas que veio a compreender e organizar o proprio projeto OC&d.
+Durante a terceira etapa, que seguiu de acordo com o planejamento, começando em janeiro de 2017, foram criadas
+novas tabelas a partir de ideias geradas durante a segunda etapa, dando inicio ao que veio a ser a etapa PI2.1,
+iniciada em fevereiro, que abrange OC&d e CGPs enquanto PI.

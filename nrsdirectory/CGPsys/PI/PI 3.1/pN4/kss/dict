@@ -1,0 +1,31 @@
+#!/etc/python
+#For each word there is an object,
+#for each object a meaning. If the word is much of
+#an abstraction, it must relate to one or more destiny objects.
+
+word = raw_input
+
+objects = {}
+
+def objects():
+	for each word:
+		word.append(objects)
+		return objects
+		break;
+		
+phrase = raw_input
+
+proposition = [] 
+
+meaning = []
+
+def proposition():
+	for each word in phrase:
+		if word in objects:
+			append word.objects(meaning)
+			return word.meaning
+			print word.meaning
+		else:
+			return word.meaning
+			append phrase.meaning
+			

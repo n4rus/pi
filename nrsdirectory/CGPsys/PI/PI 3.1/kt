@@ -1,0 +1,44 @@
+knowledge transfer
+
+plan: Develop a decentralized(p2p) computing system that manages inner systems,
+	managing & distributing information and renewable energy. 
+	The project also aims to create a new renewable energy powergrid 
+	integrated to a new universal internet backbone.
+
+staff(initial): Head Researcher - Salary: $/h 43.31431 
+		1-36 months: head-programmer - 43,99 
+		1-36 months: head-engineer - 43,99
+		1-36 months: head-designer - 43,99
+		1-36 months: head-physicist - 43,99
+
+project-cost-per year
+
+1 hr, 3hpr, 2he, 2hd, 2hph
+
+head-researcher		= * 3h/d * 22d/m * 12m/y * 3 = $ 102914,80056 
+
+head-programmer		= * 3h/d * 22d/m * 12m/y * 3 = $ 104520,24
+
+head-engineer		= * 3h/d * 22d/m * 12m/y * 3 = $ 104520,24
+
+head-designer		= * 3h/d * 22d/m * 12m/y * 3 = $ 104520,24
+
+head-physicist		= * 3h/d * 22d/m * 12m/y * 3 = $ 104520,24
+
+hre	= 102914,80056
+hpr	= 104520,24 * 3 = 313560,72
+hen     = 104520,24 * 2 = 209040,48
+hde     = 104520,24 * 2 = 209040,48
+hph     = 104520,24 * 2 = 209040,48
+	       total(t) = 940682,16 per year
+		        + project-costs(pc=t*2): 940682,16*2 = 1881364,32
+total project cost(tpc) = 2822046,48 per year
+			* 3 years(3ytpc=tpc*3): 2822046,48*3 = 88466139,44
+		  3ytpc = 88466139,44 
+
+    aprx. needed budget = $ 88.466.139,44
+
+	if the budget turns out to be short, new fudning shall be needed,
+	if the plans suceed without consuming all the budget, the money that's
+	left can be inserted into the project to upgrade the overall 
+	project performance. 

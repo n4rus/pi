@@ -1,0 +1,6 @@
+---------------------------------------------------------------
+if the strings are program strings
+and a program string is a variable(as a string):
+ string = string_program(var)
+    for each var:
+        string_program(var) + string_program(raw_input.var)

@@ -1,0 +1,24 @@
+item = var
+
+ad([resources]<>[market]<>[money{virtual resource)])
+
+entity = item(s) of ad
+
+resource = physical world: energy in general: objects, work, transactions, transport, data,energy
+
+money = coins, ecoins, exchange(entity to needing)
+
+ad = lead the content to the consumer that needs it, resulting in at least one exchange(data to read)
+
+
+user{ad([resources]<>[market]<>[money{virtual resource)])}
+
+user = interpret data while use/move: data, money and resources
+
+
+system(data({user{system{ad([resources]<>[market]<>[money{virtual resource)])}}}))
+
+system = holds all the related data, allowing and helping user's to produce resources
+        (manage and create data: transform resources in general(as well money, ad, entity, user, and system))
+
+data = all items on system(each one, and total)

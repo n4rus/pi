@@ -1,0 +1,12 @@
+Measurement of average actual capacity: { 
+ [Hardware Knowledge: 3/7;]
+ [Software Knowledge: 3/7;]
+ [Languages: Portuguese 7/7; English: 4/7;]
+ [Math: 3/7]
+ [Physics: 3/7]
+ [Phylosophy: 3/7]
+ [Learn Potential: 4/7^9]
+
+}
+
+##'''''/*All values can change anytime*/'''''##

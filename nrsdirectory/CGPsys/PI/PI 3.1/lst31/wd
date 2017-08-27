@@ -1,0 +1,11 @@
+work day1 {
+fn = function			[ok] init {(read)}
+Pi = Projeto Informacional	[ok] init {(read)}
+Pr = Physics review		[ok] init {(read/write:prog)}
+}
+
+work day1 {
+fn = function			[ok] init {(read/write)}
+Pi = Projeto Informacional	[ok] init {(read)}
+Pr = Physics review		[ok] init {(read/write:prog)}
+}

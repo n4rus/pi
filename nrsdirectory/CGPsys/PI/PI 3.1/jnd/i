@@ -1,0 +1,23 @@
+Instructions for version 4(3.4)
+
+new_sys = compile(sys{vm[vm,user]})
+
+for nl() particle_interaction do:
+	gather_info();
+	compare_database();
+	analise_outputs();
+	return output;
+	loop(*potencial) then break;
+
+## For any given interaction, even no interaction is the lack of interaction
+## wich can be lead to a loop in the other variables if someone do so.
+
+########### ## #### ## #### ### #### ### ## ## ####### ###### ## ### #########
+### I can't do much at time for now, but it is getting better in the formula #
+#### #########################################################################
+##############################################################################
+
+(For Each variable in tha table, there are a lot of information related to it.)
+(It is hard to compile and understand all at the same time, our brains overheat
+while processing too much information, almost as like a silicon microchip.)
+

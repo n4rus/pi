@@ -1,0 +1,33 @@
+[end]
+closes the comand after running the entire script
+
+[input]
+what users do
+
+[price] 
+amount of output needed per unit, to be in a fair
+
+[service]
+service = price/amount
+
+[wallet]
+holds services outputs
+
+[wait]
+wait command [end]; executes the next comand
+
+[executed]
+wait to the [service] be [confirmed]
+
+[withdraw]
+the amount of [price] leaves the [wallet], and [wait] untill the [service] be [executed]
+
+[wait][cofirmed]
+printed when [service] is [input] correctly
+
+[completed]
+the service is confirmed
+
+if [request service] [withdraw] & [wait] untill the [service] be [executed]
+
+

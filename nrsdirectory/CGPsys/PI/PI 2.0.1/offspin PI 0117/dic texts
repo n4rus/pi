@@ -1,0 +1,14 @@
+dic = {texts}
+
+class Word(s, w):
+    def Word(s, w):
+
+class Proposition(s, w, p):
+    def Proposition(s, w, p):
+
+def words_in_text(dic.Word):
+    def proposition(words_in_text):
+        if proposition == true:
+        Print proposition
+        else:
+        print proposition + " This statement is a lie, as any other." 

@@ -1,0 +1,25 @@
+As an biological computer, I give outputs for each input or input group
+
+human_input = { resources(energy[mater, information, ... ]) }
+
+As a Human Inteligence, I can contextualize an answer based on abstracts and memory databases
+
+context = [ physical(), abstract(), ...() ] 
+
+memory = [ database1(), ...() ]
+
+abstract = [ math(), logic() , meaning(), ...() ]
+
+nl = abstract { 
+	context(memory[abstract], abstract)
+}
+
+
+##/**nl **/##
+##/**Hum**/##
+##/**an **/##
+##/**Int**/##
+##/**eli**/##
+##/**gen**/##
+##/**ce **/##
+##/**###**/##

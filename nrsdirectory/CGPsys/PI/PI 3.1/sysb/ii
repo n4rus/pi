@@ -1,0 +1,51 @@
+Eu mudei o mundo;
+O Eu mudou o mundo.
+
+Individual Inteligence
+
+Da analise de textos e objetos textuais,
+a analise de objetos e partes de objetos.
+
+Os textos apresentam multiplas naturezas e complexidades.
+Um computador com informação, carrega mais informaçao que um sem informação alguma;
+Um computador com texto original, carrega informação de fonte, podendo ser unica, ou
+momentaneamente unica.
+
+Os textos analizados sao de multiplas naturezas.
+Os objetos analizados sao de multiplas naturezas.
+
+Quando os textos ou obejtos se repetem,
+sua analize torna-se menos lenta,
+e a quantidade de informação obtida tende a diminuir,
+salvo pelos conteudos que podem ser relacionados.
+
+
+answer = []
+
+srelative = [] /* situational-relative of answers */
+
+database = [] /* holds general information from user's input related content */
+
+call input
+
+for each input:
+	loop I;
+
+def I():
+	for input():
+		if input is in database:
+			search srelative():
+				if input is in srelative:
+					return srelative[input]
+					print srelative[input]
+					return I;
+		else:
+			database.append[input]
+			answer(input).append[srelative]
+			return srelative
+			print srelative;
+			return I;
+			print I;
+			
+			
+

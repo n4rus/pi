@@ -1,0 +1,19 @@
+information = [database[energy[type[distribution[user[transformation[subsys]]]]]]]
+              1        2      3    4            5    6              7      7654321
+energy = [generation[type[distribution[user[transformation[subsys]]]]]]
+         1          2    3            4    5              6      654321
+
+energy_generation_type = [1: solar, 2: wind, 3: fusion]
+energy_distribution = [1: decentralized, 2: wireless, 3: cable]
+energy_user = [1: user_necessity, 2: user_transformation, 3: user_subsys]
+user_necessity = [user_transformation energy input]
+user_transformation = [user_subsys: model]
+user_subsys = [model: redistributes energy as/and information to another users]
+
+information_database = [contain, and show a index of all user_subsys]
+information_energy = [contain and manage information about energy]
+information_type = [contain, manage, and index, types of information]
+information_distribution = [distributes all information]
+information_user = [contain, show, and index, public information about users]
+information_user_transformation = [contain, show, and index, public information about users info/energy_tranformation]
+information_user_subsys = [contain, show, and index, public information about user_subsys]

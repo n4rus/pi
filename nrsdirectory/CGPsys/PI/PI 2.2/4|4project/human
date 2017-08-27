@@ -1,0 +1,26 @@
+human = []  
+
+Phylosophy = { quote[raw_input], answer[raw_input] }
+
+Science = { System[raw_input] }
+
+Technology = { Product[raw_input] }
+
+x = { Philosophy, Science, Technology }
+
+human_level = []
+
+def human_level(human_progress):
+	human_progress = x
+	for human_progress =! 0:
+		x.append(human_level)
+		break
+
+loop_n = []
+
+def loop_n():
+	for human_level += n:
+		loop_n += 1
+		loop_n.append(human)
+		return human_level
+		break

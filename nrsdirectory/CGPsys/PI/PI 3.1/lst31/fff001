@@ -1,0 +1,19 @@
+[e = (b + i) - (f{d} * f{v²})]
+
+e = energy
+b = battery
+i = input
+f = funcion
+d = distribution
+v² = variant variables
+
+batteries( ) + eletricity ( ) - information ( ) * resources ( )   
+	  ^		   ^		     ^  	     ^  
+ 	  | 		   |                 |               |  
+          |       [solar, wind, fusion]      |               |
+	  |                                  |               |
+          |                                  |         [in(v)/out(v)]
+[battery: acutal_sys, future_sys]            |
+					     |
+					     |
+			[in/out, usability(time-range:short/long)]

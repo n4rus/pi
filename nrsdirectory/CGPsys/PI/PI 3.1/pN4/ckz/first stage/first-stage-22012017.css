@@ -1,0 +1,20 @@
+body {
+    background-color: navy;
+    background-image: url("/run/media/user/334v/nrsdirectory/CGPsys/PI2.2/PI 2.0.1/first stage/NightVisionCamera_1424314926215.jpg");
+}
+
+#centered {
+    text-align: center;
+}
+
+h4 {
+    color: grey;
+}
+
+h3 {
+    color: white;
+}
+
+h2 {
+    color: green;
+}

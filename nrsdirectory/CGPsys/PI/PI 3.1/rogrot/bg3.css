@@ -1,0 +1,39 @@
+body {	
+	background-color: #000d00;
+	/* color: ; */
+}
+
+h1 {
+	color: #ffff99;
+}
+
+h2 {
+	color: #a8a865;
+}
+
+h5 {
+	color: #545432;
+}
+
+#content {
+	background-color: #000a00; /* #001100; #00000d;*/
+}
+
+#footer-links {
+	/* background-color: #0d0000; */
+}
+
+#tt3rm1n4l {
+	/*font: DejaVu Sans Mono Book; */
+	background-color: black;
+	color: green;
+	width: 580px;
+	/*height: 400px;*/
+	text-align: left;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+	margin-right: 1px;
+	/*border-color: grey; */
+	/*border: 1px; */
+}

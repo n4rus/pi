@@ -1,0 +1,21 @@
+1: Website Domain (www.name)			0: Blog				  Publication order/sequence
+   -Ecomerce					|-Storyline			  1
+    |-Available products			  |-Links to social media	->0				
+    |-Sold products				|				  2
+						^				
+   -Links:					2: Social media			-> if 0 was published first:
+    |-Social media				|-Shares contet bits		  0		
+      |-{-Instagram				  from website 			  1	
+        {-Facebook				  and blog, linking		  2		
+        {-Youtube				  users to full acess in	
+        {-Twitter				  the original pages		-> if 2 was first:
+        { ...									  2
+   										  1
+   -Blog									  0
+    |-Storyline          ->|					
+      |-Social media ->  <-|							1 is priority while 0 is the second
+      |-Website   ->|    <-|							to be done, coming first only if
+        |-Products  |      |							the content will not be inside 1
+                    ^      ^				
+      |-Blog exclusive content				
+    |-Advertisment					

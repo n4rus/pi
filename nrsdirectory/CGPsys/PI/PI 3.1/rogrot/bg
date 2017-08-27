@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<link type="text/css" rel="stylesheet" href="bg.css"/>
+<head><center><h1>Rogrot</h1></center></head>
+
+<!-- body -->
+<body>
+
+<div id="content"><center>
+<h2>Texts</h2>
+</center></div>
+
+</body>
+<!-- body -->
+
+<!-- foot -->
+<div id="footer-links"><center>
+<h5><a href="">Projects</a>, <a href="">Market</a>, & <a href="">Partners</a></h5>
+</center></div>
+<!-- foot -->
+
+</html>

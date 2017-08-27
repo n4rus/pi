@@ -1,0 +1,26 @@
+startup(project)>bitcoin< >ethereum
+  <^>-------------------<^>state-money
+
+startup = "hosted inside actual system presets, ex.: crowdfunding
+
+project = deliver money/resources from a user to another(user0<>user00<>user01 ... etc)
+
+bitcoin = holds user's coins
+
+ethereum = optimize, keep, and organize bureoucracy from contracts and trasactions between user's
+
+state-money = bridge local state-coins from user's to project, and from project to user's
+
+######################################################################################################################
+############### Better viewed in half, or full screen mode. This line must fit exactly into the window ###############
+######################################################################################################################
+
+0 = OS: to produce the project from within(scan, text, edit, format)
+00 = email: virtual identity and messagebox
+01 = bitcoin wallet: to manage resources
+02 = github/archive/ethereum: manage and publish material from OS
+03 = website: gather github and archive material, plus generate a new content, making an original reference domain,
+                while linking thus directing related profits to the bitcoin/ether wallets.
+     01: All Project content published at website, github, archive, and ether. Social media and other portals should
+        be included and linked to the project features at this point, leading it to the descentralization.
+        (Youtube, Twitter, Blogs, Adsense, Facebook, Vimeo, Instagram, Numerai, Decentralized systems, etc) 

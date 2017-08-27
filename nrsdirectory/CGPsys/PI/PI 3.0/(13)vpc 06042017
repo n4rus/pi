@@ -1,0 +1,11 @@
+$ource
+	<- VPC -> Blockchain -> ecoin <-> coins
+	    |	     |
+	    ^        ^
+	   User ->  <-> ecoin <-> coins
+		     ^
+		     |-Node
+
+	The entire esqueme produce market(thus marketing)
+	Each VPC has a potential to multiply the energy usage, 
+	and capture, being able even to create the new.

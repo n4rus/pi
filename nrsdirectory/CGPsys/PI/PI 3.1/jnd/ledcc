@@ -1,0 +1,23 @@
+loop: { def.conf(['x**z**crypt=y']);
+	crack.conf(['{}']);
+	save.log(def[x,z,y,crypt])
+}
+
+email-server: 
+	
+
+dns-server: 
+	
+
+crawler: 
+	
+
+chain: 
+	
+
+database: 
+	
+
+web-server: 
+	
+

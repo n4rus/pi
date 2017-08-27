@@ -1,0 +1,18 @@
+sudo ssh n4rus@C2-P5-V2
+xtightvncviewer -storepasswd
+x11vnc -rfbauth /home/narus/.vnc/passwd
+
+#install vncserver
+alias installvncserver="sudo apt-get -y install x11vnc"
+#start the vnc
+alias sshvnc="x11vnc -rfbauth /home/narus/.vnc/passwd"
+#install vnc viewer
+alias installvncviewer="sudo apt-get -y install xtightvncviewer"
+#config vnc viewer
+alias configvncviewer="xtightvncviewer -storepasswd"
+#start vnc viewer
+alias sshvnc="x11vnc -rfbauth /home/narus/.vnc/passwd"
+
+echo "Starting proxychains & tor"
+
+sudo proxychains service tor start 

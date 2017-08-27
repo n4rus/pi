@@ -1,0 +1,44 @@
+|trabalho                                                       | estudo                                 |
+|custo energético de manutenção do corpo(energia*tempo)         | custo energético de manutenção do corpo|
+|funçao do trabalho(execuçao*tempo)                             | função de trabalho(eC+necessidade)     |
+|remuneração pela função de trabalho                            | remuneração pelo função de trabalho    |
+
+t = time
+d = distance, dimension, peers
+e = energia aplicada
+w = trabalho
+n = necessidade
+F = função
+Fw = função de trabalho
+eC = Custo energetico de manutenção do sistema
+rFw = Remuneração pela função de trabalho
+tw = tempo(t) de trabalho
+tE = tempo(t) de estudo
+
+Trabalho(w) é equivalente ao alcance(d) do trabalho(w):
+
+    w = e * d
+
+calcula-se a função(F) de trabalho(w), multiplicando trabalho(w) por tempo(t):
+    
+    Fw = w * t
+
+Se o usuario(usr) utiliza energia(e) para viver, e passa a utilizar mais para atividades emergentes como estudar e/ou trabalhar, passa a existir o custo de energia(e), a necessidade(n) de energia(e) para o (usr), equivale ao numero de usr's, multiplicado pelo tempo estudo(E) somado ao tempo(t) de trabalho(w):
+
+    usr = (tE + tw)
+    n = usr * e
+    ou
+    n = (((tE + tw) * e) - eC)
+
+Para o custo energético de manutenção do sistema(eC), multiplica-se o custo energia(e) do ser(eS) por tempo(t):
+
+    eC = e * t
+
+entao para remuneração(r) pela função(F) de trabalho(w), soma-se Fw ao custo energético de manutenção do corpo(eC):
+
+    rFw = Fw + eC
+
+Na função de estudo(E), a função(F) de trabalho(w) é igual a soma entre sistema(eC) e n:
+
+    FE = n + eC
+

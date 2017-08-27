@@ -1,0 +1,33 @@
+physical = {}
+
+biological = {}
+
+human = raw_data[user_input]
+
+
+for physical add particle progress:
+    where:
+    particle = {particle, progress*particle}
+    progress = {progress, particle*particle}
+    return physical
+    print physical
+    break;
+
+for biological add physical:
+    where:
+    progress = {gene-program}
+    growth = {particle*interaction-range*(time/distance), meters}
+    range = {interaction, distance/time, meters}
+    potential = {gene-program, programs}
+    data = {interaction, systems, development, human culture}
+    return physical
+    print physical
+    break;
+
+for human add mind:
+    where:
+    human = { "Information particles", "more information, "biological"}
+    mind = {programed information}
+    return human
+    print human
+    break;

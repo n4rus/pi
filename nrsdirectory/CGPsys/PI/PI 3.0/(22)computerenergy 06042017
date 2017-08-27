@@ -1,0 +1,26 @@
+[Solar] energy -N-> Computer [info{ecoin,edSys}]
+[Wind]	 ^-N->Battery-N->^          |       |
+					^  
+					|
+					N
+					^
+				       Peer[web{info}]
+
+
+-N-> Energy direction/current				 peers ---> Computer 1
+Peer: Consumes energy into services/tasks		      } |-> Computes info and energy
+EdSys: Electronic decentralized Systems			      }	|   in/out, converting results
+info1: Private info		!=			        |   into ecoins or energy
+info3: Web info			=				|   between one or more Peers
+							        |
+                                                           Web ---> Computer 2
+
+	* The energy 'in' of each computer must compensate it's output, 
+	  otherwise it will be in debt with other peer/computer/edSys.
+
+
+[Solar Panel]²energy->Battery nodes->Raspberry Pi[openOS{ecoin,ether(edSys)}]
+[Mini-windmill]²					 |_______ _______|
+								 ^
+								 |
+							       Peer[ether{app}]
