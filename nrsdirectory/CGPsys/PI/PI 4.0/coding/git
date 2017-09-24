@@ -1,0 +1,109 @@
+Script started on dom 24 set 2017 14:34:43 -03
+]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ sudo git init
+[sudo] password for aegis: 
+Reinitialized existing Git repository in /home/aegis/Desktop/pi/.git/
+]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ sudo git init[K[K[K[Kadd --all
+]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ sudo git add --all[5Pinitexit[Ksudo git push --set-upstream https://github.com/n4rus/ppi[A]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pu https://github.com/n4rus/pi
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "update-24-09_coding-txt"
+[master c387b79] update-24-09_coding-txt
+ 56 files changed, 680 insertions(+), 1 deletion(-)
+ create mode 100644 git
+ rewrite nrsdirectory/CGPsys/PI/PI 4.0/PI 4.0.ods (87%)
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/README
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/U
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/a_word.c
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/c
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/c.c
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => coding}/cinf (100%)
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/excho
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/excho.c
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/excho2
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/fpt
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/fpt.c
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/fpt.c~
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/href0.c
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/href1
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/href1.c
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/href1.c~
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/href3
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/href3.c
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/href3.c~
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/href4.c
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/l.html
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/lfn
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/lfn.c
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/linklist.c
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => coding}/npi.html (100%)
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/php.php
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/php2.php
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => coding}/pyt.py (100%)
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/qe
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/qe.cpp
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/qe.php
+ create mode 100755 nrsdirectory/CGPsys/PI/PI 4.0/coding/qe2
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/coding/qe2.cpp
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => txt}/14mpw (100%)
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => txt}/14mpw$ (100%)
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => txt}/14mpw7 (100%)
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/ap
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/esdi
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/exsyx
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/fotr
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/hks
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => txt}/n4rus (100%)
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => txt}/nrrvpse (100%)
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/piecho
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/planb
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/rcnq
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/sm
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => txt}/sys3 (100%)
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => txt}/task1 (100%)
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => txt}/wntm (100%)
+ create mode 100644 nrsdirectory/CGPsys/PI/PI 4.0/txt/yh
+ rename nrsdirectory/CGPsys/PI/PI 4.0/{ => txt}/zero (100%)
+ delete mode 100644 ppi2708-08092017.tar.gz
+]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ sudo git commit -m "update-24-09_coding-txt"add --all[K[5Pinitexit[Ksudo git initadd --all[5Pinitexit[Ksudo git initexit[Ksudo git initadd --allcommit -m "update-24-09_coding-txt"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksudo git commit -m "update-24-09_coding-txt"add --all[K[5Pinitexit[Ksudo git push --set-upstream https://github.com/n4rus/ppi[A]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pu https://github.com/n4rus/pi
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Username for 'https://github.com': n4rus
+Password for 'https://n4rus@github.com': 
+To https://github.com/n4rus/pi
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/n4rus/pi'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ sudo git push -u https://github.com/n4rus/pi[1P https://github.com/n4rus/pi[1P https://github.com/n4rus/pi[1Phttps://github.com/n4rus/pi[1P https://github.com/n4rus/pi[1P https://github.com/n4rus/pil https://github.com/n4rus/pil https://github.com/n4rus/pi
+remote: Counting objects: 2, done.[K
+remote: Total 2 (delta 1), reused 1 (delta 1), pack-reused 1[K
+Unpacking objects:  50% (1/2)   Unpacking objects: 100% (2/2)   Unpacking objects: 100% (2/2), done.
+From https://github.com/n4rus/pi
+ * branch            master     -> FETCH_HEAD
+[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(B[0;7m 7 lines ](B[m[H[39;49m(B[0;7m  GNU nano 2.7.4     File: /home/aegis/Desktop/pi/.git/MERGE_MSG                [3;1H(B[mMerge branch 'master' of https://github.com/n4rus/pi[5d# Please enter a commit message to explain why this merge is necessary,[6d# especially if it merges an updated upstream into a topic branch.[7d#[8d# Lines starting with '#' will be ignored, and an empty message aborts[9d# the commit.[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line[22d[?12l[?25h[3d[22d[J[24;80H[24;1H[?1049l[?1l>Merge made by the 'recursive' strategy.
+]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ sudo git pull https://github.com/n4rus/pi[3@sh -u[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Username for 'https://github.com': n4rus
+Password for 'https://n4rus@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/n4rus/pi/'
+]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ sudo git push -u https://github.com/n4rus/pi
+Username for 'https://github.com': n4rus
+Password for 'https://n4rus@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/n4rus/pi/'
+]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ sudo git push -u https://github.com/n4rus/pi
+Username for 'https://github.com': n4rus
+Password for 'https://n4rus@github.com': 
+Counting objects: 48, done.
+Delta compression using up to 4 threads.
+Compressing objects:   2% (1/47)   Compressing objects:   4% (2/47)   Compressing objects:   6% (3/47)   Compressing objects:   8% (4/47)   Compressing objects:  10% (5/47)   Compressing objects:  12% (6/47)   Compressing objects:  14% (7/47)   Compressing objects:  17% (8/47)   Compressing objects:  19% (9/47)   Compressing objects:  21% (10/47)   Compressing objects:  23% (11/47)   Compressing objects:  25% (12/47)   Compressing objects:  27% (13/47)   Compressing objects:  29% (14/47)   Compressing objects:  31% (15/47)   Compressing objects:  34% (16/47)   Compressing objects:  36% (17/47)   Compressing objects:  38% (18/47)   Compressing objects:  40% (19/47)   Compressing objects:  42% (20/47)   Compressing objects:  44% (21/47)   Compressing objects:  46% (22/47)   Compressing objects:  48% (23/47)   Compressing objects:  51% (24/47)   Compressing objects:  53% (25/47)   Compressing objects:  55% (26/47)   Compressing objects:  57% (27/47)   Compressing objects:  59% (28/47)   Compressing objects:  61% (29/47)   Compressing objects:  63% (30/47)   Compressing objects:  65% (31/47)   Compressing objects:  68% (32/47)   Compressing objects:  70% (33/47)   Compressing objects:  72% (34/47)   Compressing objects:  74% (35/47)   Compressing objects:  76% (36/47)   Compressing objects:  78% (37/47)   Compressing objects:  80% (38/47)   Compressing objects:  82% (39/47)   Compressing objects:  85% (40/47)   Compressing objects:  87% (41/47)   Compressing objects:  89% (42/47)   Compressing objects:  91% (43/47)   Compressing objects:  93% (44/47)   Compressing objects:  95% (45/47)   Compressing objects:  97% (46/47)   Compressing objects: 100% (47/47)   Compressing objects: 100% (47/47), done.
+Writing objects:   2% (1/48)   Writing objects:   4% (2/48)   Writing objects:   6% (3/48)   Writing objects:   8% (4/48)   Writing objects:  10% (5/48)   Writing objects:  12% (6/48)   Writing objects:  14% (7/48)   Writing objects:  16% (8/48)   Writing objects:  18% (9/48)   Writing objects:  20% (10/48)   Writing objects:  22% (11/48)   Writing objects:  25% (12/48)   Writing objects:  27% (13/48)   Writing objects:  29% (14/48)   Writing objects:  33% (16/48)   Writing objects:  35% (17/48)   Writing objects:  37% (18/48)   Writing objects:  39% (19/48)   Writing objects:  41% (20/48)   Writing objects:  45% (22/48)   Writing objects:  47% (23/48)   Writing objects:  50% (24/48)   Writing objects:  52% (25/48)   Writing objects:  54% (26/48)   Writing objects:  56% (27/48)   Writing objects:  58% (28/48)   Writing objects:  60% (29/48)   Writing objects:  62% (30/48)   Writing objects:  64% (31/48)   Writing objects:  66% (32/48)   Writing objects:  68% (33/48)   Writing objects:  70% (34/48)   Writing objects:  72% (35/48)   Writing objects:  75% (36/48)   Writing objects:  77% (37/48)   Writing objects:  79% (38/48)   Writing objects:  81% (39/48)   Writing objects:  83% (40/48)   Writing objects:  85% (41/48)   Writing objects:  87% (42/48)   Writing objects:  89% (43/48)   Writing objects:  91% (44/48)   Writing objects:  93% (45/48)   Writing objects:  95% (46/48)   Writing objects:  97% (47/48)   Writing objects: 100% (48/48)   Writing objects: 100% (48/48), 113.52 KiB | 0 bytes/s, done.
+Total 48 (delta 11), reused 0 (delta 0)
+remote: Resolving deltas:   9% (1/11)   [Kremote: Resolving deltas:  45% (5/11)   [Kremote: Resolving deltas:  72% (8/11)   [Kremote: Resolving deltas:  81% (9/11)   [Kremote: Resolving deltas:  90% (10/11)   [Kremote: Resolving deltas: 100% (11/11)   [Kremote: Resolving deltas: 100% (11/11), completed with 2 local objects.[K
+To https://github.com/n4rus/pi
+   a62ad65..dd4b543  master -> master
+Branch master set up to track remote branch master from https://github.com/n4rus/pi.
+]0;aegis@c4p31: ~/Desktop/pi[01;32maegis@c4p31[00m:[01;34m~/Desktop/pi[00m$ exit
+exit
+
+Script done on dom 24 set 2017 14:38:36 -03
