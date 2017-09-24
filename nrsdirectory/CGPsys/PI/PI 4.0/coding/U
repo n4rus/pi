@@ -1,0 +1,16 @@
+/*
+U = 
+for cada caracter dentro do conjunto, se o conjunto =! 0:
+validar a proposicao como verdadeira ou falsa
+armazenar o valor para o conjunto(c) e proposicao(p) em n=1;
+comparar o valor de c1p1n1 com c1p2n2 ate c(x)p(x)n(x);
+para cada c(x)p(x)n(x) criar uma variavel y(x);
+para cada y(x) criar um valor verdadeiro ou falso
+armazenar o valor dentro do conjunto z(x);
+para cada conjunto z(x) comparar o valor com cada y(x)
+armazenar o valor dentro do conjunto E(x)
+para cada E(x) criar um valor verdadeiro ou falso
+armazenar dentro de T(x);
+para cada i dentro de U armazenar v/f de i em U como i(v/f);
+//v = 1, f = 0; 
+*/

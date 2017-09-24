@@ -1,0 +1,16 @@
+## The dd copy the iso content to a device.
+#dd if=SL-7.3-x86_64-2017-01-20-LiveDVDgnome.iso of=/dev/sdb
+
+# Check the usb-device to be used:
+# fdisk -l
+# Format the usb-device to fat (can be done in ex.: gparted)
+# sudo apt-get install -y gparted
+
+# Go to the iso directory:
+# pwd
+# ls
+# cd /user/iso-directory
+# ls 
+
+# Use dd with the iso name and device-name
+# dd if=iso-name of /dev/device-name

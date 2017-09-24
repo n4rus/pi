@@ -1,0 +1,52 @@
+how to know something?
+A = Methods * infinity
+
+hks(A) {
+	Input question;
+	question = q;
+	Search data;
+	data = d;
+	td = true data;
+	fd = false data;
+
+	Compare(if d > q)
+	tdi = Input question
+	dq = d + (tdi*q);
+	qdq = q + dq;
+	answer = d;
+	print qdq;
+	print answer;
+
+	Compare(if d < q)
+	fd = q;
+	tdi = Input data(3);
+	fdi = tdi - fd;
+	get_answer = d + q * tdi;
+	d = d + get_answer;
+	problem = "to be solved";
+	print q get_answer problem;
+	dq = d + (tdi * q);
+	qdq = q + dq;
+	d = dq + qdq + tdi + d + get_answer + fdi;
+	answer = d;
+	print answer;
+
+	Compare(if d == q)
+	answer = d;
+	print answer;
+	
+	Compare(if d =! q)
+        fd = q;
+        tdi = Input data(3);
+        fdi = ((tdi*3)/3) - fd;
+        get_answer = d + q * tdi;
+        d = d + get_answer;
+        problem = "to be solved";
+        print q get_answer problem;
+        dq = d + (tdi * q);
+        qdq = q + dq;
+        d = dq + qdq + tdi + d + get_answer + fdi;
+        answer = d;
+        print answer;
+
+}

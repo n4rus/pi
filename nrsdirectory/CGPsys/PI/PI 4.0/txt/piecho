@@ -1,0 +1,7 @@
+piecho = peer information energy change hyper output
+user => information => energy => ping => seeder => check  => change => output
+
+|peer => energy.request => ping => database =>|
+|	 energy.recycle          |<== check <=|
+|	 energy.gain		 |=> change =>|
+|<========================= seeder <= store <=|
