@@ -1,0 +1,41 @@
+2h pi () { void pi(); }
+3h phys () { void phys(); }
+
+
+void phys(){
+   phys = 180; //minutes
+   subjects {
+   task_n = user_input // task_name
+   task_t = user_input // task_time: int(time)minutes
+   1:task_n : task_t;
+   2:task_n : task_t;
+   3:task_n : task_t;
+   4:task_n : task_t;
+   5:task_n : task_t;
+   6:task_n : task_t;
+   }
+   for each n in subjects {
+   n = task_t;
+   task_s = task_t + task_s; // task_sum 
+   phys = phys - task_t;
+   }
+}
+
+void pi(){
+   pi = 120; //minutes
+   subjects {
+   task_n = user_input // task_name
+   task_t = user_input // task_time: int(time)minutes
+   1:task_n : task_t;
+   2:task_n : task_t;
+   3:task_n : task_t;
+   4:task_n : task_t;
+   5:task_n : task_t;
+   6:task_n : task_t;
+   }
+   for each n in subjects {
+   n = task_t;
+   task_s = task_t + task_s; // task_sum
+   pi = pi - task_t;
+   }
+}
