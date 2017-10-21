@@ -1,0 +1,14 @@
+// steP de($)crIpt10n
+//  1.0	get, sort, & comment all pi programs and texts		   file1(f1)
+//  2.0	format it into a Tex compatible file 	 		   file2(f2)
+//  3.0	create a program that reads the file as a dict		program1(p1)
+//  3.1	insert the program at the end of file2			   file3(f3)
+//  3.2 create a Tex file from f3				    tex1(t1)
+//  3.3	results: f1, f2, f3, p1(.c/.py/.cpp), t1(.tex)		   file4(f4) 
+//
+//  3.3.0.0 get, sort, & comment all steP 3.3					       	    file(f5)
+//  3.3.0.1 create p2 to read f5 as a dict, make it Tex compatible	        	program2(p2)
+//  3.3.0.2 create p3 to insert p2 into f5						program3(p3)
+//  3.3.0.3 insert p3 into p2 creating p4 and f6 from p4				program4(p4[file6])
+//  3.3.0.4 create a Tex file from f6							    tex2(t2)
+//  3.3.0.5 results: f5, p2, p3, p4, f6, t2						   file7(f7)

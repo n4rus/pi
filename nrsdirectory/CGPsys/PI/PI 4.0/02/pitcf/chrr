@@ -1,0 +1,9 @@
+{}()[]{([charater()])}
+{}()[]{([charater(int, float, double, {})])}
+
+for ((1,4) = dn) {
+contact = question (2,3)
+}
+
+user -> * artwork¹, portfolio², description³ -> contact²*²
+     |-> dn 1,4;

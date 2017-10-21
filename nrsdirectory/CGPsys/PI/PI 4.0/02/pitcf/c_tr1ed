@@ -1,0 +1,45 @@
+/*
+#etd#
+#
+estrutura_de_tarefas_direcionadas(){
+
+1.planejamento(programador[plano_geral(sub_estruturas)])
+2.web_design(programador[plano_geral(sub_estrutura)]
+3.design(designer[web_design(estruturas, sub_estruturas)]
+4.edicao(escritor[plano_geral(sub_estruturas)]
+
+tal-que: 1 => (2 <> 3) => (4 <> 1)
+#
+#avcba#
+#
+any var can be a
+program or a set of
+var and programs.
+for (var =! !n):
+var = [read_user, read_data]
+
+object = []
+[] = object
+program (var[]){
+var[]
+}
+#
+#trp12#
+#
+Começamos por:
+* Projeto 1 & 2 ([test, run]){for, while, main, math}
+
+#
+#chrr#
+#
+{}()[]{([charater()])}
+{}()[]{([charater(int, float, double, {})])}
+
+for ((1,4) = dn) {
+contact = question (2,3)
+}
+
+user -> * artwork¹, portfolio², description³ -> contact²*²
+     |-> dn 1,4;
+*/
+

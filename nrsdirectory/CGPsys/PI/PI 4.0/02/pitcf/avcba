@@ -1,0 +1,11 @@
+any var can be a
+program or a set of
+var and programs.
+for (var =! !n):
+var = [read_user, read_data]
+
+object = []
+[] = object
+program (var[]){
+var[]
+}
