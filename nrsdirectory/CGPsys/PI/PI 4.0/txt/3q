@@ -1,0 +1,6 @@
+3_questoes(energia, informacao, up){
+1.O que é energia?
+2.O que é informacao?
+3.Como aprimorar continuamente a compreensao e utilização destes grupos? 
+  |-up(proposicao^utilização*aprimoramento)
+}
